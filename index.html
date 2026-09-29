@@ -1,0 +1,25 @@
+---
+layout: default
+title: Hjem
+main_class: forside
+---
+{% assign sektioner = site.sektioner | sort: 'raekkefolge' %}
+{% assign foerste = sektioner | first %}
+<section id="top" class="hero">
+  <div class="inner">
+    <h1>{{ site.data.forside.navn }}</h1>
+    <p class="undertitel">{{ site.data.forside.undertitel }}</p>
+  </div>
+  <a class="scroll small" href="#{{ foerste.slug }}">Scroll &darr;</a>
+</section>
+
+{% for s in sektioner %}
+<section id="{{ s.slug }}" class="sektion{% if s.moerk %} sort{% endif %}">
+  <div class="inner">
+    <div class="tekst">
+      <h2>{{ s.title }}</h2>
+      {{ s.content | markdownify }}
+    </div>
+  </div>
+</section>
+{% endfor %}

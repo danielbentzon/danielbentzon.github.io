@@ -1,0 +1,19 @@
+title: Daniel Bentzon
+description: Essays, indsigter og digte
+lang: da
+url: ""
+baseurl: ""
+permalink: /blog/:year/:month/:title/
+markdown: kramdown
+timezone: Europe/Copenhagen
+
+collections:
+  sektioner:
+    output: false
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post

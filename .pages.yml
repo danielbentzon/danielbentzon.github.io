@@ -1,0 +1,60 @@
+media:
+  input: assets/images
+  output: /assets/images
+
+content:
+  - name: forside
+    label: Forside (navn og undertitel)
+    type: file
+    path: _data/forside.yml
+    fields:
+      - name: navn
+        label: Navn
+        type: string
+      - name: undertitel
+        label: Undertitel
+        type: string
+
+  - name: sektioner
+    label: Sektioner på forsiden (Om, Ydelser, Tilgang, Kontakt)
+    type: collection
+    path: _sektioner
+    filename: "{primary}.md"
+    fields:
+      - name: title
+        label: Overskrift (bruges også i menuen)
+        type: string
+      - name: raekkefolge
+        label: Rækkefølge i menuen (1 kommer først)
+        type: number
+      - name: moerk
+        label: Sort baggrund
+        type: boolean
+      - name: body
+        label: Tekst
+        type: rich-text
+
+  - name: essays
+    label: Essays-siden
+    type: file
+    path: essays.md
+    fields:
+      - name: title
+        label: Titel
+        type: string
+      - name: body
+        label: Tekst
+        type: rich-text
+
+  - name: indlaeg
+    label: Blogindlæg
+    type: collection
+    path: _posts
+    filename: "{year}-{month}-{day}-{primary}.md"
+    fields:
+      - name: title
+        label: Titel
+        type: string
+      - name: body
+        label: Tekst
+        type: rich-text
