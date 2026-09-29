@@ -1,9 +1,6 @@
 * { box-sizing: border-box; }
 
-html {
-  scroll-behavior: smooth;
-  scroll-padding-top: 4.5rem;
-}
+html { scroll-behavior: smooth; }
 
 body {
   margin: 0;
@@ -24,7 +21,7 @@ h1 { font-size: 18px; font-weight: bold; margin: 0 0 1rem; }
 h2 { font-size: 16px; font-weight: bold; margin: 0 0 1rem; }
 h3 { font-size: 14px; font-weight: bold; margin: 1.5rem 0 0.75rem; }
 p, li { font-size: 12px; margin: 0 0 1.2rem; }
-.small, .dato, .undertitel-note { font-size: 10px; }
+.small, .dato { font-size: 10px; }
 
 /* ---------- Menu i toppen ---------- */
 .top {
@@ -67,6 +64,26 @@ nav a:hover, nav a.aktiv {
   text-decoration: underline;
 }
 
+/* Hamburgermenu (kun synlig på smalle skærme) */
+.menu-toggle { display: none; }
+.menu-knap { display: none; }
+
+@media (max-width: 700px) {
+  .top-inner { position: relative; padding: 1rem 1.5rem; }
+  .menu-knap {
+    display: block;
+    font-size: 22px;
+    line-height: 1;
+    cursor: pointer;
+    user-select: none;
+    padding: 0.2rem 0.4rem;
+  }
+  nav { display: none; flex-direction: column; width: 100%; margin-top: 1rem; }
+  nav a { margin: 0; padding: 0.7rem 0; border-top: 1px solid #d4d4d4; font-size: 14px; }
+  .menu-toggle:checked ~ nav { display: flex; }
+  .top-inner { flex-wrap: wrap; }
+}
+
 /* ---------- Fælles bredder ---------- */
 .inner {
   max-width: 72rem;
@@ -74,7 +91,7 @@ nav a:hover, nav a.aktiv {
   padding: 0 1.5rem;
 }
 
-/* Standard: tekst fylder ca. 3/5 af siden, med luft i hver side */
+/* Standard: al tekst (og alt der skal flugte med den) fylder 3/5 af siden, centreret */
 .tekst {
   max-width: 60%;
   margin: 0 auto;
@@ -96,67 +113,40 @@ nav a:hover, nav a.aktiv {
 .hero h1 { font-size: clamp(2.2rem, 7vw, 4.5rem); margin-bottom: 1rem; }
 .undertitel { font-size: 14px; color: #555; margin: 0; }
 
-.scroll {
-  position: absolute;
-  bottom: 2rem;
-  left: 50%;
-  transform: translateX(-50%);
-  font-family: "Courier New", Courier, monospace;
-  letter-spacing: 0.15em;
-  text-transform: uppercase;
-  text-decoration: none;
-  color: #555;
-}
-.scroll:hover { background: none; color: #000; text-decoration: underline; }
-
-.sektion {
-  padding: 6rem 0;
-  border-top: 1px solid #d4d4d4;
-}
-.sektion.sort {
-  background: #000;
-  color: #ddd;
-  border-top: 1px solid #000;
-}
+.sektion { padding: 6rem 0; border-top: 1px solid #d4d4d4; }
+.sektion.sort { background: #000; color: #ddd; border-top: 1px solid #000; }
 .sektion.sort h2, .sektion.sort h3 { color: #fff; }
 
-/* ---------- Blog: forside/landing med kasser ---------- */
-.blogside main, main.blogside { padding: 4rem 0 5rem; }
-.blogside .tekst { max-width: 60%; margin: 0 auto 2.5rem; }
-
-.blog-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.25rem;
-  max-width: 72rem;
-  margin: 0 auto;
-  padding: 0 1.5rem;
+/* ---------- Blog og Essays: kasser i grid, samme margen som al tekst ---------- */
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin-top: 1.5rem;
 }
 
-.blog-kasse {
-  flex: 1 1 calc(25% - 1.25rem);
-  min-width: 11rem;
+.post-kasse {
   border: 1px solid #000;
-  padding: 1.25rem;
+  padding: 1rem;
   text-decoration: none;
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
   color: #000;
+  min-width: 0; /* så lange titler ikke sprænger grid-cellen */
 }
-.blog-kasse:hover { background: #000; color: #fff; }
-.blog-titel { font-size: 12px; font-weight: bold; line-height: 1.4; }
+.post-kasse:hover { background: #000; color: #fff; }
+.post-titel { font-size: 12px; font-weight: bold; line-height: 1.4; }
 
 @media (max-width: 900px) {
-  .blog-kasse { flex: 1 1 calc(50% - 1.25rem); }
+  .post-grid { grid-template-columns: repeat(2, 1fr); }
 }
-@media (max-width: 550px) {
-  .blog-kasse { flex: 1 1 100%; }
-  .blogside .tekst { max-width: 100%; }
+@media (max-width: 700px) {
+  .post-grid { grid-template-columns: 1fr; }
 }
 
 /* ---------- Undersider ---------- */
-main:not(.forside):not(.blogside) { padding: 4rem 0 5rem; }
+main:not(.forside) { padding: 4rem 0 5rem; }
 .tilbage { margin-top: 3rem; }
 
 blockquote {
@@ -169,9 +159,5 @@ blockquote {
 .digt { white-space: pre-line; }
 
 /* ---------- Footer ---------- */
-footer {
-  border-top: 1px solid #d4d4d4;
-  padding: 1.2rem 0 2rem;
-  color: #666;
-}
+footer { border-top: 1px solid #d4d4d4; padding: 1.2rem 0 2rem; color: #666; }
 footer p { margin: 0; }

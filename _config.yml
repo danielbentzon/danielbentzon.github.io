@@ -1,5 +1,5 @@
 title: Daniel Bentzon
-description: Essays, indsigter og digte.
+description: Essays, indsigter og digte
 lang: da
 url: ""
 baseurl: ""
@@ -10,6 +10,9 @@ timezone: Europe/Copenhagen
 collections:
   sektioner:
     output: false
+  essays:
+    output: true
+    permalink: /essays/:year/:month/:title/
 
 defaults:
   - scope:
@@ -17,3 +20,8 @@ defaults:
       type: "posts"
     values:
       layout: post
+  - scope:
+      path: ""
+      type: "essays"
+    values:
+      layout: essay

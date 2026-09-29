@@ -11,6 +11,10 @@
   <header class="top">
     <div class="top-inner">
       <a class="logo" href="{{ '/' | relative_url }}#top">{{ site.title }}</a>
+
+      <input type="checkbox" id="menu-toggle" class="menu-toggle">
+      <label for="menu-toggle" class="menu-knap" aria-label="Åbn menu">&#9776;</label>
+
       <nav>
         {% assign menu_sektioner = site.sektioner | sort: 'raekkefolge' %}
         {% for s in menu_sektioner %}

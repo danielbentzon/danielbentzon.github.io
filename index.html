@@ -4,13 +4,11 @@ title: Hjem
 main_class: forside
 ---
 {% assign sektioner = site.sektioner | sort: 'raekkefolge' %}
-{% assign foerste = sektioner | first %}
 <section id="top" class="hero">
   <div class="inner">
     <h1>{{ site.data.forside.navn }}</h1>
     <p class="undertitel">{{ site.data.forside.undertitel }}</p>
   </div>
-  <a class="scroll small" href="#{{ foerste.slug }}">Scroll &darr;</a>
 </section>
 
 {% for s in sektioner %}

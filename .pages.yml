@@ -35,9 +35,10 @@ content:
         type: rich-text
 
   - name: essays
-    label: Essays-siden
-    type: file
-    path: essays.md
+    label: Essays
+    type: collection
+    path: _essays
+    filename: "{year}-{month}-{day}-{primary}.md"
     fields:
       - name: title
         label: Titel
