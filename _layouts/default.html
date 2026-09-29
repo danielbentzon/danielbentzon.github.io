@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title and page.title != 'Hjem' %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <a class="logo" href="{{ '/' | relative_url }}#top">{{ site.title }}</a>
+      <nav>
+        {% assign menu_sektioner = site.sektioner | sort: 'raekkefolge' %}
+        {% for s in menu_sektioner %}
+        <a href="{{ '/' | relative_url }}#{{ s.slug }}">{{ s.title }}</a>
+        {% endfor %}
+        <a href="{{ '/essays/' | relative_url }}"{% if page.url == '/essays/' %} class="aktiv"{% endif %}>Essays</a>
+        <a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} class="aktiv"{% endif %}>Blog</a>
+      </nav>
+    </div>
+  </header>
+  <main class="{{ page.main_class }}">
+    {{ content }}
+  </main>
+  <footer>
+    <div class="inner">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </div>
+  </footer>
+</body>
+</html>
