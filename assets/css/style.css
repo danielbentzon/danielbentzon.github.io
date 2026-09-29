@@ -1,0 +1,177 @@
+* { box-sizing: border-box; }
+
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 4.5rem;
+}
+
+body {
+  margin: 0;
+  background: #fff;
+  color: #1a1a1a;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 12px;
+  line-height: 1.8;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; text-underline-offset: 0.2em; }
+a:hover { background: #000; color: #fff; }
+.sort a:hover { background: #fff; color: #000; }
+
+/* ---------- Typografi ---------- */
+h1 { font-size: 18px; font-weight: bold; margin: 0 0 1rem; }
+h2 { font-size: 16px; font-weight: bold; margin: 0 0 1rem; }
+h3 { font-size: 14px; font-weight: bold; margin: 1.5rem 0 0.75rem; }
+p, li { font-size: 12px; margin: 0 0 1.2rem; }
+.small, .dato, .undertitel-note { font-size: 10px; }
+
+/* ---------- Menu i toppen ---------- */
+.top {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid #d4d4d4;
+}
+
+.top-inner {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 1.2rem 1.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 0.4rem 1.8rem;
+}
+
+.logo {
+  font-size: 16px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #000;
+}
+
+nav a {
+  margin-left: 1.6rem;
+  text-decoration: none;
+  font-size: 12px;
+  color: #333;
+}
+
+nav a:hover, nav a.aktiv {
+  background: none;
+  color: #000;
+  text-decoration: underline;
+}
+
+/* ---------- Fælles bredder ---------- */
+.inner {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+/* Standard: tekst fylder ca. 3/5 af siden, med luft i hver side */
+.tekst {
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+@media (max-width: 700px) {
+  .tekst { max-width: 100%; }
+}
+
+/* ---------- Forside ---------- */
+.hero {
+  position: relative;
+  min-height: calc(100vh - 4.2rem);
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.hero .inner { max-width: 100%; }
+.hero h1 { font-size: clamp(2.2rem, 7vw, 4.5rem); margin-bottom: 1rem; }
+.undertitel { font-size: 14px; color: #555; margin: 0; }
+
+.scroll {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: "Courier New", Courier, monospace;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #555;
+}
+.scroll:hover { background: none; color: #000; text-decoration: underline; }
+
+.sektion {
+  padding: 6rem 0;
+  border-top: 1px solid #d4d4d4;
+}
+.sektion.sort {
+  background: #000;
+  color: #ddd;
+  border-top: 1px solid #000;
+}
+.sektion.sort h2, .sektion.sort h3 { color: #fff; }
+
+/* ---------- Blog: forside/landing med kasser ---------- */
+.blogside main, main.blogside { padding: 4rem 0 5rem; }
+.blogside .tekst { max-width: 60%; margin: 0 auto 2.5rem; }
+
+.blog-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.25rem;
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+}
+
+.blog-kasse {
+  flex: 1 1 calc(25% - 1.25rem);
+  min-width: 11rem;
+  border: 1px solid #000;
+  padding: 1.25rem;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  color: #000;
+}
+.blog-kasse:hover { background: #000; color: #fff; }
+.blog-titel { font-size: 12px; font-weight: bold; line-height: 1.4; }
+
+@media (max-width: 900px) {
+  .blog-kasse { flex: 1 1 calc(50% - 1.25rem); }
+}
+@media (max-width: 550px) {
+  .blog-kasse { flex: 1 1 100%; }
+  .blogside .tekst { max-width: 100%; }
+}
+
+/* ---------- Undersider ---------- */
+main:not(.forside):not(.blogside) { padding: 4rem 0 5rem; }
+.tilbage { margin-top: 3rem; }
+
+blockquote {
+  margin: 1.5rem 0;
+  padding-left: 1rem;
+  border-left: 3px solid #000;
+  color: #444;
+}
+
+.digt { white-space: pre-line; }
+
+/* ---------- Footer ---------- */
+footer {
+  border-top: 1px solid #d4d4d4;
+  padding: 1.2rem 0 2rem;
+  color: #666;
+}
+footer p { margin: 0; }
