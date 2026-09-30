@@ -1,27 +1,29 @@
 title: Daniel Bentzon
-description: Essays, indsigter og digte
+description: Skriverier, indsigter og digte
 lang: da
 url: ""
 baseurl: ""
-permalink: /blog/:year/:month/:title/
 markdown: kramdown
 timezone: Europe/Copenhagen
 
 collections:
   sektioner:
     output: false
-  essays:
+  sider:
     output: true
-    permalink: /essays/:year/:month/:title/
+    permalink: /sider/:title/
+  skriverier:
+    output: true
+    permalink: /skriverier/:title/
 
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: "sider"
     values:
-      layout: post
+      layout: page
   - scope:
       path: ""
-      type: "essays"
+      type: "skriverier"
     values:
-      layout: essay
+      layout: skriverie

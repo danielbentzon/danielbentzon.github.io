@@ -20,8 +20,7 @@
         {% for s in menu_sektioner %}
         <a href="{{ '/' | relative_url }}#{{ s.slug }}">{{ s.title }}</a>
         {% endfor %}
-        <a href="{{ '/essays/' | relative_url }}"{% if page.url == '/essays/' %} class="aktiv"{% endif %}>Essays</a>
-        <a href="{{ '/blog/' | relative_url }}"{% if page.url contains '/blog' %} class="aktiv"{% endif %}>Blog</a>
+        <a href="{{ '/skriverier/' | relative_url }}"{% if page.url contains '/skriverier' %} class="aktiv"{% endif %}>Skriverier</a>
       </nav>
     </div>
   </header>

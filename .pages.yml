@@ -34,24 +34,34 @@ content:
         label: Tekst
         type: rich-text
 
-  - name: essays
-    label: Essays
+  - name: skriverier
+    label: Skriverier (blog + essays samlet)
     type: collection
-    path: _essays
-    filename: "{year}-{month}-{day}-{primary}.md"
+    path: _skriverier
+    filename: "{primary}.md"
     fields:
       - name: title
         label: Titel
         type: string
+      - name: date
+        label: Dato (kan altid ændres)
+        type: date
+      - name: genre
+        label: Genre (vises kun i oversigten, ikke på selve siden)
+        type: select
+        options:
+          values:
+            - Blog
+            - Essay
       - name: body
         label: Tekst
         type: rich-text
 
-  - name: indlaeg
-    label: Blogindlæg
+  - name: sider
+    label: Sider (uden fast plads i menuen endnu)
     type: collection
-    path: _posts
-    filename: "{year}-{month}-{day}-{primary}.md"
+    path: _sider
+    filename: "{primary}.md"
     fields:
       - name: title
         label: Titel
