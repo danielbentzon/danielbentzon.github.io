@@ -1,5 +1,6 @@
 ---
 title: Om
+permalink: om
 ---
 **Min vej ind i terapeutens verden**
 Fra egne kriser — til corporate verden — meningskrise — til erkendelsen af den iboende lidelse i store organisationer (uddybes) — kommer kun til at fylde mere, med den måde vi har indrettet os i hænderne på store organisationer, såsom techgiganter, men også korrupte politikere (naturligt produkt at det politiske spil) — det sande arbejde starter med manden i spejlet, der er ingen anden vej — for at kunne åbne op for det potentiale, må der ryddes op i det psykologiske materiale — derefter kan livet begynde, og man kan arbejde med at finde ud af hvad man er, og hvordan man kan udtrykke sin unikke sjæl, i stedet for at undertrykke den — for at opnå denne bevidsthed, må man gennemleve helvedsrejsen — og derefter kunne bringe sine gaver i spil — livslang praksis og bibeholdes gennem høj integritet, selvdisciplin og meditation. 
@@ -16,9 +17,12 @@ Min praksis kan være et vidnesbyrd om at man godt kan kombinere forskellige dom
 Jeg arbejder med mig selv, så jeg kan arbejde med andre.
 
 ### Uddannelser
+
 - 1-årigt psykoterapeutisk grunduddannelse på Vedfelt Institutet i København 2025-2026
 - Stud. cand.IT på IT-Universitet i København 2024-2026
 
 ### Korte kurser
+
 - Meditationskursus – 7-dages silent retreat i Vipassana (60 timer) v/Psykolog og meditationslærer Uffe Damborg 2025
 - Meditationskursus i Vipassana (16 timer) v/Psykolog og meditationslærer Linda Spalding 2025
+
