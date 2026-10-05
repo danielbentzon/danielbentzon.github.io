@@ -1,7 +1,7 @@
 ---
-title: 
 raekkefolge: 0.5
 moerk: false
+flet_med_hero: true
 ---
 Hvem er jeg?
 
@@ -10,7 +10,6 @@ Hvad interesserer mig?
 Hvilket aftryk ønsker jeg at efterlade her på jorden?
 
 Hvilke projekter optager mig for tiden?
-
 
 Hvad jeg kan hjælpe med
 Siden jeg første gang blev bevidst om at de udfordringer som var i mit liv var lidt mere end det almindelige, har jeg forsøgt at tilegne mig kompetencer til at håndtere hvad livet end må byde på. 
