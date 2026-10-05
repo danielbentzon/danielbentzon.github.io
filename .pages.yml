@@ -4,7 +4,7 @@ media:
 
 content:
   - name: forside
-    label: Forside (navn og undertitel)
+    label: Forside 
     type: file
     path: _data/forside.yml
     fields:
@@ -38,7 +38,7 @@ content:
         type: rich-text
 
   - name: skriverier
-    label: Skriverier (blog + essays samlet)
+    label: Skriverier
     type: collection
     path: _skriverier
     filename: "{primary}.md"
@@ -61,7 +61,7 @@ content:
         type: rich-text
 
   - name: sider
-    label: Sider (uden fast plads i menuen endnu)
+    label: Sider
     type: collection
     path: _sider
     filename: "{primary}.md"
