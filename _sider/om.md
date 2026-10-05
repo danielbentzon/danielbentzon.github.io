@@ -1,6 +1,6 @@
 ---
 title: Om
-permalink: om
+permalink: /om/
 ---
 **Min vej ind i terapeutens verden**
 Fra egne kriser — til corporate verden — meningskrise — til erkendelsen af den iboende lidelse i store organisationer (uddybes) — kommer kun til at fylde mere, med den måde vi har indrettet os i hænderne på store organisationer, såsom techgiganter, men også korrupte politikere (naturligt produkt at det politiske spil) — det sande arbejde starter med manden i spejlet, der er ingen anden vej — for at kunne åbne op for det potentiale, må der ryddes op i det psykologiske materiale — derefter kan livet begynde, og man kan arbejde med at finde ud af hvad man er, og hvordan man kan udtrykke sin unikke sjæl, i stedet for at undertrykke den — for at opnå denne bevidsthed, må man gennemleve helvedsrejsen — og derefter kunne bringe sine gaver i spil — livslang praksis og bibeholdes gennem høj integritet, selvdisciplin og meditation. 
