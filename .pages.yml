@@ -31,7 +31,7 @@ content:
         label: Sort baggrund
         type: boolean
       - name: flet_med_hero
-        label: Flet med forsiden (skjuler overskrift, fjerner linjen og fjerner fra menuen)
+        label: Flet med forsiden
         type: boolean
       - name: body
         label: Tekst
