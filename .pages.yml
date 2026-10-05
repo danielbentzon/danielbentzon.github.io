@@ -16,7 +16,7 @@ content:
         type: string
 
   - name: sektioner
-    label: Sektioner på forsiden (Om, Ydelser, Tilgang, Kontakt, Intro m.fl.)
+    label: Sektioner på forsiden
     type: collection
     path: _sektioner
     filename: "{primary}.md"
