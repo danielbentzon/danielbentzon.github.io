@@ -7,4 +7,4 @@ Her skriver du et par afsnit om dig selv: hvem du er, hvad du arbejder med, og h
 
 Et afsnit mere, hvis du har lyst.
 
-[Læs mere i Om mig](https://danielbentzon.github.io/om)
+[Læs mere i Om mig](/om/)
