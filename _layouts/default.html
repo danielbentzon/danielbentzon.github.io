@@ -18,7 +18,9 @@
       <nav>
         {% assign menu_sektioner = site.sektioner | sort: 'raekkefolge' %}
         {% for s in menu_sektioner %}
+        {% unless s.flet_med_hero %}
         <a href="{{ '/' | relative_url }}#{{ s.slug }}">{{ s.title }}</a>
+        {% endunless %}
         {% endfor %}
         <a href="{{ '/skriverier/' | relative_url }}"{% if page.url contains '/skriverier' %} class="aktiv"{% endif %}>Skriverier</a>
       </nav>

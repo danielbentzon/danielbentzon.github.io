@@ -12,6 +12,15 @@ main_class: forside
 </section>
 
 {% for s in sektioner %}
+{% if s.flet_med_hero %}
+<div id="{{ s.slug }}" class="intro-flet">
+  <div class="inner">
+    <div class="tekst">
+      {{ s.content | markdownify }}
+    </div>
+  </div>
+</div>
+{% else %}
 <section id="{{ s.slug }}" class="sektion{% if s.moerk %} sort{% endif %}">
   <div class="inner">
     <div class="tekst">
@@ -20,4 +29,5 @@ main_class: forside
     </div>
   </div>
 </section>
+{% endif %}
 {% endfor %}

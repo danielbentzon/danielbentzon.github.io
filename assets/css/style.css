@@ -117,6 +117,9 @@ nav a:hover, nav a.aktiv {
 .sektion.sort { background: #000; color: #ddd; border-top: 1px solid #000; }
 .sektion.sort h2, .sektion.sort h3 { color: #fff; }
 
+/* Sektion der "flettes" direkte ind under forsiden: ingen overskrift, ingen linje */
+.intro-flet { padding: 0 0 5rem; border: none; }
+
 /* ---------- Blog og Essays: kasser i grid, samme margen som al tekst ---------- */
 .post-grid {
   display: grid;

@@ -16,19 +16,22 @@ content:
         type: string
 
   - name: sektioner
-    label: Sektioner på forsiden (Om, Ydelser, Tilgang, Kontakt)
+    label: Sektioner på forsiden (Om, Ydelser, Tilgang, Kontakt, Intro m.fl.)
     type: collection
     path: _sektioner
     filename: "{primary}.md"
     fields:
       - name: title
-        label: Overskrift (bruges også i menuen)
+        label: Overskrift (bruges også i menuen, medmindre "Flet med forsiden" er slået til)
         type: string
       - name: raekkefolge
-        label: Rækkefølge i menuen (1 kommer først)
+        label: Rækkefølge (1 kommer først)
         type: number
       - name: moerk
         label: Sort baggrund
+        type: boolean
+      - name: flet_med_hero
+        label: Flet med forsiden (skjuler overskrift, fjerner linjen og fjerner fra menuen)
         type: boolean
       - name: body
         label: Tekst
@@ -66,6 +69,10 @@ content:
       - name: title
         label: Titel
         type: string
+      - name: permalink
+        label: "Fast URL (valgfri — fx /om/ i stedet for standarden /sider/titel/)"
+        type: string
+        required: false
       - name: body
         label: Tekst
         type: rich-text
