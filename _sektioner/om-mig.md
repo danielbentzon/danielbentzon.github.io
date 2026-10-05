@@ -1,6 +1,5 @@
 ---
 title: Om mig
-permalink: /om-mig/
 raekkefolge: 1
 moerk: false
 ---
