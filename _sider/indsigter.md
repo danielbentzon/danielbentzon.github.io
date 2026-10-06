@@ -2,7 +2,7 @@
 permalink: /indsigter/
 ---
 
-10 august 2026 
+10 august 2026
 Visdom er evnen til at dele eller anvende viden på det rigtige tidspunkt. 
 Nogle gange er det bedste råd det mest simple. Det er fint med tidløs indianerfilosofi, men hvis man bliver spurgt ind til hvorfor nogen føler sig utrygge, er det måske mere passende at fortælle dem at de er gode nok som de er. 
 
