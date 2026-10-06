@@ -16,11 +16,11 @@ Når du spiser aktiverer du samtlige sanser; smag, lugt, syn. Det er faktisk ret
 18 juni 2026 17.21 
 Jeg træner ikke for at blive glad, jeg træner for at blive gladere. 
 
-6. juni 2026 22.09 
+6 juni 2026 22.09 
 Den største barriere for at leve autentisk er: frygt. 
 Modgiften til det er: mod.
 
-6. juni 2026 22.06 
+6 juni 2026 22.06 
 Meditation er især gavnligt til et af to formål:
 1. Selvudforskelse 
 2. Selvregulering
@@ -47,88 +47,73 @@ Især drømme kan bruges på flere planer. De kan spejle ens proces, og dermed g
 
 Man skal derfor ikke føle sig forpligtet til altid at følge de åbninger som er ind til psyken, men det er dog godt altid at have en kontakt til det. 
 
-22. april 2026 09.40 
-
+22 april 2026 09.40 
 Struktur skaber forudsætning for kreativitet, men kan også begrænse det, især hvis det opsættes præmaturt. 
 
-14. april 2026 13.36 
-
+14 april 2026 13.36 
 Vaner ændres ved at skabe de rette betingelser for sig selv.
 
 Læg i stedet en skønlitterær bog ved din seng, frem for telefonen.
 
-13. april 2026 09.36 
-
+13 april 2026 09.36 
 Det svære er at følge sine egne gode råd.
 
 En ting er at have fælles værdier, men noget andet er hvordan man udlever dem i praksis. Det er stor forskel på det som folk siger, og det som de rent faktisk gør, jf indsigt fra etnografiens verden.
 
-6. april 2026 12.34 
-
+6 april 2026 12.34 
 Præcise ordvalg giver mulighed for mere nuanceret og præcist at belyse et emne.
 
 Det skaber rum for højere kompleksitet uden misforståelse. 
 
-1. april 2026 10.23 
-
+1 april 2026 10.23 
 Simpelt, men meningsfyldt.
 
 Det er mit hovedbudskab efter 13 dage med vores baby.
 
 Det har været meget tilfredsstillende, dejligt og helende. 
 
-9. marts 2026 16.43 
-
+9 marts 2026 16.43 
 At være kvalitetsbevidst kan også handle om andet end at købe pæne og solide ting. 
 
 Min kvalitetsbevidsthed udtrykkes i højere grad gennem de indtryk jeg forsøger at tage ind. Fx at have en bogreol med spændende bøger, eller at lægge sin smartphone uden for syns vidde, eller se noget indhold som inspirerer fremfor at meningsløst stimulere. Det er for mig kvalitetsbevidsthed.
 
-9. marts 2026 08.46 
-
+9 marts 2026 08.46 
 Det at gå i skole handler i høj grad om at nærme sig det rette input, da det medfører at man mere naturligt kommer med et kvalificeret output.
 
 Det at lære at stille de rigtige spørgsmål, og blive ved indtil man finder det ønskede svar, gør dig til en god samfundskritisk borger. Ikke om du kan recitere grundloven. 
 
 Vi har et for stort fokus på output, og vi belønner ikke kritisk sans i særlig høj grad. Naturligvis er der nogle grundlæggende færdigheder som skal på plads, men derfra handler det mere om at stille de rigtige spørgsmål, og i lige så høj grad være i stand til at omsætte de svar til kvalificerede indsigter. Det er disse dele af læringsprocessen som skal understøttes, ikke en motivation for at få en høj karakter af sit udkom uafhængigt af processen derhen. Også derfor at et forsvar af en opgave hvor man tager højde for processen er så meget mere retvisende og tilfredsstillende end en pensum eksamen. 
 
-1. marts 2026 20.26 
-
+1 marts 2026 20.26 
 Der følger en stor ro i erkendelsen af at alt er øjeblikkelig foranderligt.
 
 En svær følelse i dag, har et andet udtryk i morgen. Ingen tilstande er permanente. 
 
-18. februar 2026 15.16 
-
+18 februar 2026 15.16 
 Hvordan man håndterer konflikter er den største udslagsgivende faktor for om et forhold vil holde i længden.
 
 Kigger man tilbage på tidligere braste forhold, er det typisk fordi konflikthåndteringen gik fejl, ikke fordi man ikke havde viljen til at være sammen. 
 
 Det forudsætter dog at tiltrækning stadig er intakt, hvilket dog også afhænger meget af hvordan konflikter håndteres. Det kan ligefrem bidrage til tiltrækningen. 
 
-12. februar 2026 07.59 
-
+12 februar 2026 07.59 
 Når der er meget aktivitet i det ydre liv, er det måske ikke der man, skal tage på de store indre rejser. Der skal nok komme en tid for det. 
 
-10. februar 2026 20.33 
-
+10 februar 2026 20.33 
 Motivationen for meditation skal gerne findes i et behov eller en lyst. Ikke kun i fornuft. 
 
-30. januar 2026 09.28 
-
+30 januar 2026 09.28 
 Don’t listen to the wise words of man. Listen to the word of God.
 
 Even though some of the advice on various online fora is intelligent and bringing new perspectives, don’t let that be the reason why you start acting or act in a certain way. Make it known to you in your heart, and listen to the whispers of God.
 
-30. januar 2026 07.56 
-
+30 januar 2026 07.56 
 Saml mod til at træffe beslutninger som ikke er styret af frygt. Træf i stedet beslutninger som er motiveret af kærlighed. 
 
-29. januar 2026 17.35 
-
+29 januar 2026 17.35 
 Selvdisciplin er at være pligtopfyldende uden styring af samvittighed, mens at være pligtopfyldebde er at være disciplineret baseret på undgåelsen af dårlig samvittighed.
 
-28. januar 2026 08.47 
-
+28 januar 2026 08.47 
 I den vestlige del af verdenen, undertrykker vi vores åndeligebehov konsekvent og dagligt.
 
 I andre steder i verden er det en integreret del af deres dagligdag, måden at indgå i relation til naturen, til taknemmelighedspraksiser for det liv som er givet. 
@@ -137,16 +122,14 @@ I vesten vil vi helst ikke forholde os til at der er noget større. Noget mere v
 
 Man ser nu en tilbagekomst af åndelighed, for det er en del af det at være menneske, ligesom vi må passe vores sundhed, må vi dyrke vores spiritualitet. 
 
-23. januar 2026 11.59 
-
+23 januar 2026 11.59 
 Dine kollegaer er ikke dine venner. 
 
 Alle de sociale arrangementer og påskønnelser kommer kun så længe du performer på jobbet. Hvis du stoppede med at arbejde, blev du fyret og ekskluderet. Det er at være fordi man kan få noget ud af hinanden. Ikke fordi man i højere grad betingelsesløst elsker hinanden. Findes der dog betingelsesløs kærlighed til venner? Er det ikke kun forbeholdt for sin familie?
 
 Det vil jeg mene.
 
-22. januar 2026 20.33 
-
+22 januar 2026 20.33 
 For at give plads til kreative processer, bliver man nødt til at give slip. 
 
 Det er når vi holder pauser og ikke skal noget, at vi giver den kreative intelligens plads til at virke i os. 
