@@ -1,5 +1,6 @@
 ---
 title: Indsigter
+permalink: indsigter
 ---
 10. august 2026
 
