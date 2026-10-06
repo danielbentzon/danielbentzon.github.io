@@ -1,6 +1,3 @@
----
-title: Indsigter
----
 10. august 2026
 
 Visdom er evnen til at dele eller anvende viden på det rigtige tidspunkt. 
