@@ -189,17 +189,23 @@ Det forudsætter dog at tiltrækning stadig er intakt, hvilket dog også afhæng
 
 
 
+&nbsp;
+
 12 februar 2026 07.59 
 
 Når der er meget aktivitet i det ydre liv, er det måske ikke der man, skal tage på de store indre rejser. Der skal nok komme en tid for det. 
 
 
 
+&nbsp;
+
 10 februar 2026 20.33 
 
 Motivationen for meditation skal gerne findes i et behov eller en lyst. Ikke kun i fornuft. 
 
 
+
+&nbsp;
 
 30 januar 2026 09.28 
 
@@ -209,17 +215,23 @@ Even though some of the advice on various online fora is intelligent and bringin
 
 
 
+&nbsp;
+
 30 januar 2026 07.56 
 
 Saml mod til at træffe beslutninger som ikke er styret af frygt. Træf i stedet beslutninger som er motiveret af kærlighed. 
 
 
 
+&nbsp;
+
 29 januar 2026 17.35 
 
 Selvdisciplin er at være pligtopfyldende uden styring af samvittighed, mens at være pligtopfyldebde er at være disciplineret baseret på undgåelsen af dårlig samvittighed.
 
 
+
+&nbsp;
 
 28 januar 2026 08.47 
 
@@ -232,6 +244,8 @@ I vesten vil vi helst ikke forholde os til at der er noget større. Noget mere v
 Man ser nu en tilbagekomst af åndelighed, for det er en del af det at være menneske, ligesom vi må passe vores sundhed, må vi dyrke vores spiritualitet. 
 
 
+
+&nbsp;
 
 23 januar 2026 11.59 
 
