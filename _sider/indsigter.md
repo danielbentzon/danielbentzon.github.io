@@ -257,6 +257,8 @@ Det vil jeg mene.
 
 
 
+&nbsp;
+
 22 januar 2026 20.33 
 
 For at give plads til kreative processer, bliver man nødt til at give slip. 
@@ -266,6 +268,8 @@ Det er når vi holder pauser og ikke skal noget, at vi giver den kreative intell
 Det er ikke noget vi kan fremtvinge, kun kultivere vilkårene for. Og det skal forstås som en aktiv slippen ind i det ikke at skulle handle for at handle (udfolde sig kreativt). 
 
 
+
+&nbsp;
 
 22 januar 2026 18.04
 
@@ -279,11 +283,15 @@ Grundlæggende giver det dig mere magt, og magt forpligter. Så hvis man ønsker
 
 
 
+&nbsp;
+
 15 januar 2026 07.28
 
 Det er ikke gratis at gå på arbejde. Du betaler med din tid, og det er den næstmest værdifulde valuta, efter kærlighed. 
 
 
+
+&nbsp;
 
 14 januar 2026 08.29
 
@@ -291,11 +299,13 @@ Folk der eksekverer hurtigt er ikke fordi de ikke har travlt, det er fordi de ha
 
 
 
-11. januar 2026 17.11
+11 januar 2026 17.11
 
 Døm ikke dit liv ud fra den seneste dag, den seneste uge eller den seneste måned. Vær naturligvis observant om der er generelle mønstre på vej, men lad ikke en dårlig, kedelig eller hård dag definere hvor du står i livet.
 
 Har dit virke dog været energikrævende over lang tid, uden at det tillader dig at være i dit autentiske jeg, så tag da bestik af situationen. Lyt til dine behov, noter dem, og følg hvordan de udvikler sig over den kommende tid. Gerne på ugentlig basis og ellers over måneder. 
+
+
 
 15 januar 2026 10.12
 
@@ -303,17 +313,27 @@ Update: Her en uge senere cykler jeg på arbejde med en helt anden energi. Intet
 
 
 
-11. januar 2026 07.35
+&nbsp;
+
+11 januar 2026 07.35
 
 Jeg er god til at genkalde information, særligt i nye samtaler. Men hvis jeg skal gengive information lige efter en samtale, så er jeg udfordret. Jeg er særligt dygtig, hvis jeg skal genkalde information, når jeg er tryg eller jeg er i en spirende samtale. Faktisk også hvis jeg skal forholde mig til afgrænsede spørgsmål, som ved en quiz. Særligt i samtaler mærker jeg den ubevidste intelligens. 
 
-10. januar 2026 11.08
+
+
+&nbsp;
+
+10 januar 2026 11.08
 
 Hvordan ved man om man har for travlt? Når man føler at man ikke har tid til at være tilstede i nuet.
 
 Hvis ens hoved er i planer og praktik hele tiden, er det umuligt at være i nuet. Derfor må planlægning og praktik struktureres gennem skemalægning og rutiner, så man giver sig selv fri til at være i nuet. 
 
-9. januar 2026 19.54
+
+
+&nbsp;
+
+9 januar 2026 19.54
 
 Som mand og far er det vigtigt at spørge sig selv om man ville leve på samme måde, hvis man ikke havde sin familie omkring sig - som en indikator for om man er blevet for magelig.
 
@@ -323,6 +343,8 @@ Fx hvis man gik virkelig meget ned i tid, og dermed satte en markant bremse i si
 
 
 
+&nbsp;
+
 **Det er vigtigt at sikre sig selv en tilværelse, hvor det fælles liv ikke er fundamentet for ens eget liv.** 
 
 Ja, man kommer til at indgå i et partnerskab og et familiefællesskab, men i sidste ende dør vi alene. Dette er ikke sagt i en niehelistisk tone, men mere som et fokus på at blive ved med at være i stand til at lave en nogenlunde objektiv og retmæssig vurdering af hvor man selv som mand står i sit liv.
@@ -330,6 +352,8 @@ Ja, man kommer til at indgå i et partnerskab og et familiefællesskab, men i si
 Husk dig selv, så du kan tage vare på dine relationer til andre, og blive ved med at være et energiboost ind i deres liv. 
 
 
+
+&nbsp;
 
 2 januar 2026 18.10
 
@@ -339,11 +363,15 @@ Ja, det skader ikke at modtage positive tilkendegivelser fra folk, men hvis hele
 
 
 
+&nbsp;
+
 1 januar 2026 19.08
 
 Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for dit afkom at finde ind til sit Selv.
 
 
+
+&nbsp;
 
 25. december 2025 20.16
 
