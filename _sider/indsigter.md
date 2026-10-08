@@ -9,11 +9,15 @@ Nogle gange er det bedste råd det mest simple. Det er fint med tidløs indianer
 
 
 
+&nbsp;
+
 21 juli 2026
 
 Lad være med at lede efter et arbejde du tror du har lyst til, led efter et arbejde som du er nysgerrig på. 
 
 
+
+&nbsp;
 
 21 juli 2026 11.22 
 
@@ -23,11 +27,15 @@ Når du spiser aktiverer du samtlige sanser; smag, lugt, syn. Det er faktisk ret
 
 
 
+&nbsp;
+
 18 juni 2026 17.21 
 
 Jeg træner ikke for at blive glad, jeg træner for at blive gladere. 
 
 
+
+&nbsp;
 
 6 juni 2026 22.09 
 
@@ -36,6 +44,8 @@ Den største barriere for at leve autentisk er: frygt.
 Modgiften til det er: mod.
 
 
+
+&nbsp;
 
 6 juni 2026 22.06 
 
@@ -49,6 +59,8 @@ Det ene er et privilegie, det andet en nødvendighed.
 
 
 
+&nbsp;
+
 6 juni 2026 21.58
 
 At tro man ved hvad man skal, betyder at man ikke ved hvad man skal.
@@ -61,6 +73,8 @@ Gud har en plan, og den behøves man ikke at konkurrere med.
 
 
 
+&nbsp;
+
 18 maj 2026 10.31
 
 Det er skønt at have en stor (nærtbeslægtet) familie, og få nære venner, og mange bekendte, hvis relation man ikke rigtig behøves at pleje. 
@@ -68,6 +82,8 @@ Det er skønt at have en stor (nærtbeslægtet) familie, og få nære venner, og
 Det skaber overskud til at bruge tid på de mennesker som er en del af ens familieudvidelse, og samtidig skaber få nære venner et frirum og perspektiv ud til andet en ens eget fokus på sin familie.
 
 
+
+&nbsp;
 
 27 april 2026 07.59 
 
@@ -79,11 +95,15 @@ Man skal derfor ikke føle sig forpligtet til altid at følge de åbninger som e
 
 
 
+&nbsp;
+
 22 april 2026 09.40 
 
 Struktur skaber forudsætning for kreativitet, men kan også begrænse det, især hvis det opsættes præmaturt. 
 
 
+
+&nbsp;
 
 14 april 2026 13.36 
 
@@ -93,6 +113,8 @@ Læg i stedet en skønlitterær bog ved din seng, frem for telefonen.
 
 
 
+&nbsp;
+
 13 april 2026 09.36 
 
 Det svære er at følge sine egne gode råd.
@@ -101,6 +123,8 @@ En ting er at have fælles værdier, men noget andet er hvordan man udlever dem 
 
 
 
+&nbsp;
+
 6 april 2026 12.34 
 
 Præcise ordvalg giver mulighed for mere nuanceret og præcist at belyse et emne.
@@ -108,6 +132,8 @@ Præcise ordvalg giver mulighed for mere nuanceret og præcist at belyse et emne
 Det skaber rum for højere kompleksitet uden misforståelse. 
 
 
+
+&nbsp;
 
 1 april 2026 10.23 
 
@@ -119,6 +145,8 @@ Det har været meget tilfredsstillende, dejligt og helende.
 
 
 
+&nbsp;
+
 9 marts 2026 16.43 
 
 At være kvalitetsbevidst kan også handle om andet end at købe pæne og solide ting. 
@@ -126,6 +154,8 @@ At være kvalitetsbevidst kan også handle om andet end at købe pæne og solide
 Min kvalitetsbevidsthed udtrykkes i højere grad gennem de indtryk jeg forsøger at tage ind. Fx at have en bogreol med spændende bøger, eller at lægge sin smartphone uden for syns vidde, eller se noget indhold som inspirerer fremfor at meningsløst stimulere. Det er for mig kvalitetsbevidsthed.
 
 
+
+&nbsp;
 
 9 marts 2026 08.46 
 
@@ -137,6 +167,8 @@ Vi har et for stort fokus på output, og vi belønner ikke kritisk sans i særli
 
 
 
+&nbsp;
+
 1 marts 2026 20.26 
 
 Der følger en stor ro i erkendelsen af at alt er øjeblikkelig foranderligt.
@@ -144,6 +176,8 @@ Der følger en stor ro i erkendelsen af at alt er øjeblikkelig foranderligt.
 En svær følelse i dag, har et andet udtryk i morgen. Ingen tilstande er permanente. 
 
 
+
+&nbsp;
 
 18 februar 2026 15.16 
 
