@@ -185,7 +185,10 @@ Saml mod til at træffe beslutninger som ikke er styret af frygt. Træf i stedet
 
 Selvdisciplin er at være pligtopfyldende uden styring af samvittighed, mens at være pligtopfyldebde er at være disciplineret baseret på undgåelsen af dårlig samvittighed.
 
+
+
 28 januar 2026 08.47 
+
 I den vestlige del af verdenen, undertrykker vi vores åndeligebehov konsekvent og dagligt.
 
 I andre steder i verden er det en integreret del af deres dagligdag, måden at indgå i relation til naturen, til taknemmelighedspraksiser for det liv som er givet. 
@@ -194,21 +197,29 @@ I vesten vil vi helst ikke forholde os til at der er noget større. Noget mere v
 
 Man ser nu en tilbagekomst af åndelighed, for det er en del af det at være menneske, ligesom vi må passe vores sundhed, må vi dyrke vores spiritualitet. 
 
+
+
 23 januar 2026 11.59 
+
 Dine kollegaer er ikke dine venner. 
 
 Alle de sociale arrangementer og påskønnelser kommer kun så længe du performer på jobbet. Hvis du stoppede med at arbejde, blev du fyret og ekskluderet. Det er at være fordi man kan få noget ud af hinanden. Ikke fordi man i højere grad betingelsesløst elsker hinanden. Findes der dog betingelsesløs kærlighed til venner? Er det ikke kun forbeholdt for sin familie?
 
 Det vil jeg mene.
 
+
+
 22 januar 2026 20.33 
+
 For at give plads til kreative processer, bliver man nødt til at give slip. 
 
 Det er når vi holder pauser og ikke skal noget, at vi giver den kreative intelligens plads til at virke i os. 
 
 Det er ikke noget vi kan fremtvinge, kun kultivere vilkårene for. Og det skal forstås som en aktiv slippen ind i det ikke at skulle handle for at handle (udfolde sig kreativt). 
 
-22. januar 2026 18.04
+
+
+22 januar 2026 18.04
 
 Et større ordforråd gør dig ikke til et bedre menneske.
 
@@ -218,23 +229,31 @@ At man har en kandidatgrad gør dig dermed ikke til et bedre menneske. Det giver
 
 Grundlæggende giver det dig mere magt, og magt forpligter. Så hvis man ønsker at gøre en stor positiv forskel i verden, har man tilsvarende bedre handlemuligheder for det. 
 
-15. januar 2026 07.28
+
+
+15 januar 2026 07.28
 
 Det er ikke gratis at gå på arbejde. Du betaler med din tid, og det er den næstmest værdifulde valuta, efter kærlighed. 
 
-14. januar 2026 08.29
+
+
+14 januar 2026 08.29
 
 Folk der eksekverer hurtigt er ikke fordi de ikke har travlt, det er fordi de har overblikket til at handle. 
 
-15. januar 2026 10.12
 
-Update: Her en uge senere cykler jeg på arbejde med en helt anden energi. Intet i mine arbejdsopgaver er anderledes, men det overskud jeg har udenfor arbejdet er anderledes. Det havde altså ikke noget med arbejdet eller min aktivitet for den dag at gøre. Det handler om at jeg bare ikke var veloplagt den dag og havde brug for en pause.
 
 11. januar 2026 17.11
 
 Døm ikke dit liv ud fra den seneste dag, den seneste uge eller den seneste måned. Vær naturligvis observant om der er generelle mønstre på vej, men lad ikke en dårlig, kedelig eller hård dag definere hvor du står i livet.
 
 Har dit virke dog været energikrævende over lang tid, uden at det tillader dig at være i dit autentiske jeg, så tag da bestik af situationen. Lyt til dine behov, noter dem, og følg hvordan de udvikler sig over den kommende tid. Gerne på ugentlig basis og ellers over måneder. 
+
+15 januar 2026 10.12
+
+Update: Her en uge senere cykler jeg på arbejde med en helt anden energi. Intet i mine arbejdsopgaver er anderledes, men det overskud jeg har udenfor arbejdet er anderledes. Det havde altså ikke noget med arbejdet eller min aktivitet for den dag at gøre. Det handler om at jeg bare ikke var veloplagt den dag og havde brug for en pause.
+
+
 
 11. januar 2026 07.35
 
@@ -254,19 +273,29 @@ Ja, man kommer til at gå på kompromis med visse individuelle ambitioner, men d
 
 Fx hvis man gik virkelig meget ned i tid, og dermed satte en markant bremse i sine karriereplaner, eller at ens ambitioner for sin egen sundhed og udseende blev negligeret i for høj grad, hvad ville man så have tilbage at stå på, hvis tingene skred i ens forhold, og man ikke længere skulle være sammen? 
 
-**Det er vigtigt at sikre sig selv en tilværelse, hvor det fælles liv ikke er fundamentet for ens eget liv.** Ja, man kommer til at indgå i et partnerskab og et familiefællesskab, men i sidste ende dør vi alene. Dette er ikke sagt i en niehelistisk tone, men mere som et fokus på at blive ved med at være i stand til at lave en nogenlunde objektiv og retmæssig vurdering af hvor man selv som mand står i sit liv.
+
+
+**Det er vigtigt at sikre sig selv en tilværelse, hvor det fælles liv ikke er fundamentet for ens eget liv.** 
+
+Ja, man kommer til at indgå i et partnerskab og et familiefællesskab, men i sidste ende dør vi alene. Dette er ikke sagt i en niehelistisk tone, men mere som et fokus på at blive ved med at være i stand til at lave en nogenlunde objektiv og retmæssig vurdering af hvor man selv som mand står i sit liv.
 
 Husk dig selv, så du kan tage vare på dine relationer til andre, og blive ved med at være et energiboost ind i deres liv. 
 
-2. januar 2026 18.10
+
+
+2 januar 2026 18.10
 
 Omend positivt eller negativt, lad være med at vurdere dig selv ud fra den feedback du får fra omverdenen i form af mennesker, som ikke kender dig.
 
 Ja, det skader ikke at modtage positive tilkendegivelser fra folk, men hvis hele dit selvbillede dannes ud fra en overfladisk vurdering, klinger det hult og leder til illusion. 
 
-1. januar 2026 19.08
+
+
+1 januar 2026 19.08
 
 Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for dit afkom at finde ind til sit Selv.
+
+
 
 25. december 2025 20.16
 
