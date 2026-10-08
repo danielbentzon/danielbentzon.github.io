@@ -138,6 +138,7 @@ Vi har et for stort fokus på output, og vi belønner ikke kritisk sans i særli
 
 
 1 marts 2026 20.26 
+
 Der følger en stor ro i erkendelsen af at alt er øjeblikkelig foranderligt.
 
 En svær følelse i dag, har et andet udtryk i morgen. Ingen tilstande er permanente. 
@@ -145,27 +146,43 @@ En svær følelse i dag, har et andet udtryk i morgen. Ingen tilstande er perman
 
 
 18 februar 2026 15.16 
+
 Hvordan man håndterer konflikter er den største udslagsgivende faktor for om et forhold vil holde i længden.
 
 Kigger man tilbage på tidligere braste forhold, er det typisk fordi konflikthåndteringen gik fejl, ikke fordi man ikke havde viljen til at være sammen. 
 
 Det forudsætter dog at tiltrækning stadig er intakt, hvilket dog også afhænger meget af hvordan konflikter håndteres. Det kan ligefrem bidrage til tiltrækningen. 
 
+
+
 12 februar 2026 07.59 
+
 Når der er meget aktivitet i det ydre liv, er det måske ikke der man, skal tage på de store indre rejser. Der skal nok komme en tid for det. 
 
+
+
 10 februar 2026 20.33 
+
 Motivationen for meditation skal gerne findes i et behov eller en lyst. Ikke kun i fornuft. 
 
+
+
 30 januar 2026 09.28 
+
 Don’t listen to the wise words of man. Listen to the word of God.
 
 Even though some of the advice on various online fora is intelligent and bringing new perspectives, don’t let that be the reason why you start acting or act in a certain way. Make it known to you in your heart, and listen to the whispers of God.
 
+
+
 30 januar 2026 07.56 
+
 Saml mod til at træffe beslutninger som ikke er styret af frygt. Træf i stedet beslutninger som er motiveret af kærlighed. 
 
+
+
 29 januar 2026 17.35 
+
 Selvdisciplin er at være pligtopfyldende uden styring af samvittighed, mens at være pligtopfyldebde er at være disciplineret baseret på undgåelsen af dårlig samvittighed.
 
 28 januar 2026 08.47 
