@@ -8,7 +8,6 @@ Visdom er evnen til at dele eller anvende viden på det rigtige tidspunkt.
 Nogle gange er det bedste råd det mest simple. Det er fint med tidløs indianerfilosofi, men hvis man bliver spurgt ind til hvorfor nogen føler sig utrygge, er det måske mere passende at fortælle dem at de er gode nok som de er. 
 
 
-
 &nbsp;
 
 21 juli 2026
@@ -368,54 +367,7 @@ Ja, det skader ikke at modtage positive tilkendegivelser fra folk, men hvis hele
 Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for dit afkom at finde ind til sit Selv.
 
 
-
--- TEST
-
-Test 1 manuel
-
-25 december 2025 20.16
-
-Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
-
-
-
 &nbsp;
-
-22 december 2025 21.49
-
-Få dine dopaminer fra en kilde som du selv kan styre.
-
-
-
-&nbsp;
-
-21 december 2025 20.05
-
-Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
-
-
-
-Test 2, chat:
-
-25 december 2025 20.16
-
-Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
-
-22 december 2025 21.49
-
-Få dine dopaminer fra en kilde som du selv kan styre.
-
-21 december 2025 20.05
-
-Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
-
-
-
-&nbsp;
-
-&nbsp;
-
---
 
 **2025**
 
