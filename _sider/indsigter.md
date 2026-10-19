@@ -482,6 +482,8 @@ Så længe man prioriterer de rigtige menneske og lader være med at spilde tid 
 
 
 
+&nbsp;
+
 29 oktober 2025 08.14
 
 Det, og det andet, fremfor alt eller intet.
@@ -489,6 +491,8 @@ Det, og det andet, fremfor alt eller intet.
 Bring nuancerne i spil og accepter at der altid er den anden side af en sag, som også er vigtig, men måske ikke vigtigst. Altså ens eget umiddelbare ståsted.
 
 
+
+&nbsp;
 
 6 oktober 2025 20.30
 
@@ -512,11 +516,15 @@ Det kræver naturligvis at man har ressourcer til at opsøge den fornødne hjæl
 
 
 
+&nbsp;
+
 2 september 2025 16.42
 
 Hvad kan du stemme i dag, som gavner dine børn og den kommende generation?
 
 
+
+&nbsp;
 
 31 august 2025 20.11
 
@@ -526,9 +534,11 @@ Mænds seksuelle tiltrækning af kvinder er derimod svingende, så den kan godt 
 
 
 
+&nbsp;
+
 25 august 2025 20.31
 
-I storbyen øver man sig i at slukke for sine danser, mens man i provinsen træner at åbne for sine sanser.
+I storbyen øver man sig i at slukke for sine sanser. I provinsen gør man det modsatte.
 
 Fx når man går en tur, filtrerer man mange indtryk ude i byen, mens man i skoven åbner op for sine sanser.
 
@@ -536,13 +546,17 @@ Det er to meget forskellige tilstande at være og vokse op i.
 
 
 
+&nbsp;
+
 18 august 2025 07.46
 
-Hovedet kommer sig hurtigere end kroppen, så det er vigtigt at vise tålmodighed her. (KILDE)
+Hovedet kommer sig hurtigere end kroppen, så det er vigtigt at vise tålmodighed her.
 
 Fx kan man tænke at man er klar til at kaste sig ud i nye udfordringer, men kroppen er faktisk ikke helt parat endnu, og det vil man kunne mærke.
 
 
+
+&nbsp;
 
 13 august 2025 15.28
 
@@ -552,11 +566,15 @@ Det er altså vigtigt at kanalisere sin livsenergi ud i projekter som er menings
 
 
 
+&nbsp;
+
 13 august 2025 15.27
 
 Opmærksomheden på sin vejrtrækning kan ses som det gyldne lyn. Nogle gange kan det fastholdes, dog med vished om forfængelighed, og andre gange flyver det langt væk og er ikke engang i ens synsfelt.
 
 
+
+&nbsp;
 
 12 august 2025 08.34
 
@@ -568,17 +586,23 @@ Derfor er det vigtigt at balancere sig selv, inden man mærker efter i sin krop 
 
 
 
+&nbsp;
+
 11 august 2025 15.02
 
 For mig handler det ikke om godt eller dårligt vejr, altså om der er sol, regn eller blæst. I stedet påvirker det mig om der er dagslys eller ej. Ellers tager jeg blot tøjet på efter vejret.
 
 
 
+&nbsp;
+
 11 august 2025 10.13
 
 Vi bruger mange begreber i den daglige tale og i samfundsdebatten uden at være sikre på at vi taler om det samme. Hvordan definerer vi det at rejse, hvad er og hvornår er man forelsket, og i hvad?
 
 
+
+&nbsp;
 
 2 august 2025 13.40
 
@@ -587,6 +611,8 @@ Det er umuligt at leve livet hvis man har for travlt. Det vil medføre en ophobn
 Det er derfor vigtigt at give sig tid til at fordøje hverdagens indtryk, så man har kapacitet til at tage nye indtryk ind i nuet.
 
 
+
+&nbsp;
 
 1 august 2025 16.59
 
@@ -598,11 +624,15 @@ Og en dårlig selvregulering, medfører mennesker som reagerer uproportionalt me
 
 
 
+&nbsp;
+
 1 august 2025 07.59
 
 Det føles bedre at selvoptimere når livet er lidt travlt, for ellers går man og optimerer et liv som har kapacitet til større ændringer fremfor at opsøge dem.
 
 
+
+&nbsp;
 
 17 juli 2025 13.44
 
@@ -614,6 +644,8 @@ Hvor det at være visionær handler mere om at turde tænke store originale tank
 
 
 
+&nbsp;
+
 11 juli 2025 07.48
 
 Bare fordi man har mulighed og klarhed til at tage svære samtaler med sine nære relationer, betyder det ikke at tiden er rigtig til at tage dem.
@@ -622,11 +654,15 @@ Det er vigtigt at mærke efter i sig selv om man er klar til det, da disse samta
 
 
 
+&nbsp;
+
 11 juli 2025 07.47
 
 Kærlighed og lidelse er to veje til Gud.
 
 
+
+&nbsp;
 
 8 juli 2025 20.27
 
@@ -638,6 +674,8 @@ Hvis man derimod lader sig lede af nysgerrighed og stiller spørgsmålet “hvor
 
 
 
+&nbsp;
+
 8 juli 2025 07.55
 
 For at lyst kan være et vejledende kompas, er det en forudsætning at man er tilpas reguleret eller i balance.
@@ -645,6 +683,8 @@ For at lyst kan være et vejledende kompas, er det en forudsætning at man er ti
 Ellers er det for vanskeligt at mærke sin autentiske lyst, hvis ens behov ikke er opfyldte. Så bliver det i stedet impuls og bypassing.
 
 
+
+&nbsp;
 
 7 juli 2025 21.44
 
@@ -654,6 +694,8 @@ Og dermed også vores manglende mod til at se virkeligheden for hvad den er.
 
 
 
+&nbsp;
+
 2 juli 2025 10.59
 
 “Lad mig være.” eller “Lad mig bare lige være.” 6. juli 2025 21.27 eller “Lad mig være i fred.”
@@ -661,6 +703,8 @@ Og dermed også vores manglende mod til at se virkeligheden for hvad den er.
 Temmelig sigende for hvad folk egentlig ønsker, når de forstyrres. De vil egentlig gerne bare have lov til at være, uden at skulle gøre noget specifikt eller tillade forstyrrelse. Man vil gerne bare, være.
 
 
+
+&nbsp;
 
 1 juli 2025 10.20
 
@@ -672,6 +716,8 @@ Derfor er det også svært at slå igennem som kunstner i andre lande, fordi fol
 
 
 
+&nbsp;
+
 27 juni 2025 08.20
 
 Jeg ønsker at være idealist gennem handling ikke gennem ord.
@@ -679,6 +725,8 @@ Jeg ønsker at være idealist gennem handling ikke gennem ord.
 Hver gang der er mulighed for at blive sat eller selv sætte sig op på den moralske højhest, er det bedst at holde ordene tilbage, og i stedet inspirere gennem handling.
 
 
+
+&nbsp;
 
 19 juni 2025 12.38
 
@@ -690,6 +738,8 @@ Fx kan man have lyst til at se TV med sin kæreste, men egentlig har man brug fo
 
 
 
+&nbsp;
+
 17 juni 2025 13.12
 
 Luk computeren når du spiser. Du overlever nok de 15 minutter det tager at spise.
@@ -697,6 +747,8 @@ Luk computeren når du spiser. Du overlever nok de 15 minutter det tager at spis
 Vær tilstede med den aktivitet du er i gang med, og giv dig selv tid og plads til en pause.
 
 
+
+&nbsp;
 
 16 juni 2025 17.23
 
@@ -710,6 +762,8 @@ Depression fortæller os nemlig at noget i os er undertrykt, og hvis vi undertry
 
 
 
+&nbsp;
+
 15 juni 2025 15.06
 
 Når folk dokumenter ting med deres mobil fremfor at opleve det selv og bare nyde øjeblikket, er det en klyngen til øjeblikket og et forsøg på at fastholde det.
@@ -717,6 +771,8 @@ Når folk dokumenter ting med deres mobil fremfor at opleve det selv og bare nyd
 Dette afføder lidelse, fordi et hvert øjeblik er øjeblikkeligt foranderligt.
 
 
+
+&nbsp;
 
 12 juni 2025 15.47
 
@@ -726,6 +782,8 @@ På afdelingsniveau handler det derimod også om mennesker. Det samme gør sig g
 
 
 
+&nbsp;
+
 12 juni 2025 10.07
 
 Hvis man skal bruge porno for at onanere, har man ikke naturlig lyst nok.
@@ -734,6 +792,8 @@ Vent derfor med at onanere til at lysten er stor nok til ikke at kunne lade vær
 
 
 
+&nbsp;
+
 11 juni 2025 08.22
 
 Hvad er det som ingen lyd har, men alligevel larmer så de færreste kan holde det ud?
@@ -741,6 +801,8 @@ Hvad er det som ingen lyd har, men alligevel larmer så de færreste kan holde d
 Stilhed.
 
 
+
+&nbsp;
 
 10 juni 2025 19.04
 
@@ -751,6 +813,8 @@ Fx at have været på noget så anderledes som et 7 dages stille retræte. Gør 
 Samfundet har dog et stort ønske om at ville forstå ting, så det ikke stiller for mange spørgsmål til den måde de fleste vælger at leve deres liv på, så derfor vil det meget gerne sætte folk i kasser. Det kommer på godt og ondt, og er en mekanisme som altid vil eksistere i et samfund, så det må man lære at acceptere, når man vælger at gå sin egen vej.
 
 
+
+&nbsp;
 
 9 juni 2025 14.41
 
@@ -768,11 +832,11 @@ That’s what truly challenges materialism, not lofty ideals, but the quiet prac
 
 
 
+&nbsp;
+
 9 juni 2025 14.36
 
 Keep asking ‘why’ is the only way to find balance in life.
-
-—
 
 Why do we consume so much?
 
@@ -794,11 +858,11 @@ Why do we need AI?
 
 
 
+&nbsp;
+
 1 juni 2025 13.50
 
 Man bestemmer selv om man reagerer på en impuls, men man bestemmer ikke selv impulsen.
-
-—
 
 Fx at vende hovedet efter en flot pige som går forbi.
 
