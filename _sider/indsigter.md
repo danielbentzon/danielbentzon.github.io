@@ -868,71 +868,61 @@ Fx at vende hovedet efter en flot pige som går forbi.
 
 
 
+&nbsp;
+
 28 maj 2025 08.53
 
 Jeg beundrer og værdsætter fokuseret arbejde mere end hårdt arbejde.
-
-—
 
 Når de to kombineres derimod, får man opskriften på at være i stand til at nå sine mål.
 
 
 
+&nbsp;
+
 27 maj 2025 16.30
 
-Desto svagere kontakt man har til sig selv, desto sværere bliver det at selvregulere.
-
-—
+Jo svagere kontakt man har til sig selv, desto sværere bliver det at selvregulere.
 
 Gaming og reality tager os væk fra os selv. Derfor er det ikke godt at tænde for som det første når vi kommer hjem fra dagens gøremål. Det er i denne omstilling at vi skal mærke ind i os selv, er finde ud af hvad vi har brug for, fremfor at distrahere os fra muligheden for at lytte til vores krop.
 
 
 
+&nbsp;
+
 23 maj 2025 08.56
 
 Når en kvinde bliver irriteret over, at hendes kæreste ligger og dovner i sofaen, handler det sjældent om dovenskaben i sig selv. Det handler om en følelse af at være den eneste, der trækker i en retning mod et pænt og hyggeligt hjem.
 
-—
-
 Den mandlige pendant er, når man som mand kommer hjem og ser sin kæreste sidde passivt på sofaen med Tiktok i hånden og reality i baggrunden. Ikke fordi underholdning er et problem i sig selv, men fordi det forstærker følelsen af, at hvis nærvær, fordybelse og personlig vækst i relationen skal finde sted, så hænger det på manden.
-
-—
 
 Det bliver særligt tydeligt, hvis kvinden kommer hjem fra et arbejde, hun er ligeglad med. For så føles passiviteten ikke som restitution, men som resignation. Og mange par mærker her en form for asymmetri, hvor kvinder ikke ønsker at være de eneste, der tager ansvar i hjemmet, mens mænd ikke ønsker at være de eneste, der tager ansvar for retning, formål og personlig udvikling.
 
 
 
+&nbsp;
+
 22 maj 2025 12.19
 
 Arbejdsopgaverne i business appellerer ikke nødvendigvis mere til mænd. De fleste går ind i business, uanset køn, fordi de tiltrækkes af overfladiske incitamenter som penge, status og livsstil.
 
-—
-
 Kulturen i business appellerer dog mere til mænd. Ikke fordi de nødvendigvis trives bedre, men fordi social status har højere samfundsmæssig værdi for mænd. De er opdraget til at jage den og bedre til at udholde dens omkostninger.
-
-—
 
 Kvinder går oftere ind i business af andre grunde, primært høj løn, der muliggør uafhængighed og en bestemt livsstil. Det gør ikke motivet dybere. Bare anderledes.
 
-—
-
 Begge dele er drevet af egennyttige incitamenter og handler sjældent om at være til gavn for andre mennesker eller planeten. Derfor er business i sin kerne overfladisk. Og er det for det meste.
 
-—
-
 En reel interesse i business kan dog eksistere, hvis den udspringer af nysgerrighed på strategi, organisering, planlægning eller andet, der skaber værdi i sig selv og ikke blot som middel til personlig vinding.
-
-—
 
 Forudsætningen er, at der er overensstemmelse mellem egne værdier og virksomhedens. Ellers er det bare endnu et statusprojekt forklædt som arbejde.
 
 
 
+&nbsp;
+
 21 maj 2025 08.11
 
 På micro plan har det feminine brug for det maskuline, og må macro plan har det maskuline brug for det feminine.
-
-—
 
 Sætte grænser i sine personlige relationer så man ikke får stress.
 
@@ -940,57 +930,53 @@ Sætte naturen for profit.
 
 
 
+&nbsp;
+
 12 maj 2025 17.57
 
 Jeg finder mennesker interessante som brænder for at være til gavn for andre mennesker.
-
-—
 
 Det absolut kedeligste er mennesker som arbejder for at tjene penge, og dyrke sport for at øge sin præstation. Intet altruistisk over det. Ego-drevet-begær.
 
 
 
+&nbsp;
+
 11 maj 2025 09.21
 
 Giv dig selv frihed til at leve frit.
 
-—
-
 For tillidsfuldt at kunne læne sig ind til den guddommelige intelligens, kræver det at ens fundament er på plads. Dette gælder tryghed i ens forhold, bolig og arbejde. Hvis disse ting er plads, behøves man ikke at strukturere sine produktive aktiviteter for firkantet. Man kan i stedet læne sig ind i at der sker det som skal ske, eller at man har lyst til at gøre det som er ment til at der skal gøres. Fx at have en åben kalender når man går hjem fra arbejde, i stedet for at have planlagt aktiviteter, såsom en social aftale eller et træningspas. I stedet kan man lade sin intuition drive sin beslutning for hvad man ønsker at bruge sin tid på. Er det fordybelse i en bog, en gåtur, en social aftale eller andet? Det har man frihed og mulighed for at handle på hvis man tillader sig selv ikke at strukturere al sin tid i et skema.
-
-—
 
 Omvendt er det dog vigtigt at kunne gøre det, hvis ens fundament krakelerer, såsom hvis ens lejlighed opsiges eller kæresten går fra en. Her kan det være nødvendigt at tage nogle faste skridt i en meget specifik retning, for at hive sig selv op ad hullet, for derefter at kunne mærke friheden igen, ved at have tillid til den guddommelige plan og intelligens.
 
 
 
+&nbsp;
+
 10 maj 2025 08.08
 
 Jeg har ikke altid lyst til at gøre det jeg altid har lyst til.
 
-—
-
 Nogle gange har man ikke lyst til at gøre ting man elsker at gøre, men først under aktiviteten og bagefter, kan man mærke hvor meget man glædes over aktiviteten.
-
-—
 
 Jeg elsker at spille fodbold, og jeg ved at jeg altid synes det er fedt, men alligevel har der været mange gange hvor jeg lige inden alligevel har skullet presse mig selv til at tage afsted. Det er det samme med anden træning til dels. Jeg kan godt lide selve aktiviteten, både under og følelsen efter, men alligevel kræver det en indsats at komme afsted. Hvordan kan det være?
 
-—
-
 Det skyldes en kombination af emotionel inerti (hjernen sparer energi og undgår skift i tilstand), et mismatch mellem kortsigtet lyst og langsigtet værdi (øjeblikket siger nej, men dybere præferencer siger ja), og en tendens til at overvurdere indsats og undervurdere glæde (impact bias). Derudover kræver det mental energi at aktivere bestemte roller (fx den fysiske og sociale side i fodbold), og motivation påvirkes stærkt af kontekst: er man træt eller overstimuleret, kan selv meningsfulde aktiviteter føles uoverkommelige. Først når man er i gang, genaktiveres den indre forbindelse til glæden. Skal man så tage afsted eller lytte til kroppen?
-
-—
 
 Det afhænger. Modstand før en aktivitet kan enten være tegn på reel udmattelse eller blot på lav aktivering. Lær at skelne: Tunghed går ofte væk når man kommer i gang, mens udmattelse forværres. Brug 5-minutters-reglen: start aktiviteten, og stop kun hvis modstanden stadig føles ægte. Spørg også: “Har jeg brug for energi eller ro?” – nogle gange er bevægelse den bedste form for restitution. Over tid kan du se mønstre: hvis du næsten altid nyder aktiviteten, selvom du tøver, kan du trygt tage afsted. Det handler om at lære kroppens sprog.
 
 
 
+&nbsp;
+
 7 maj 2025 10.39
 
-Skyld er en sociliserende mekanisme, og kan være indlejret i et livshistorisk mønster. Det samme med angst. Det er bare emotioner. De kan afføde nye reaktioner, og når man reagerer forstærker man dem.
+Skyld (eller dårlig samvittighed) er en sociliserende mekanisme, og kan være indlejret i et livshistorisk mønster. Det samme med angst. Det er bare emotioner. De kan afføde nye reaktioner, og når man reagerer forstærker man dem.
 
 
+
+&nbsp;
 
 7 maj 2025 09.19
 
