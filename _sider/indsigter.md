@@ -1227,7 +1227,9 @@ Damn.. Dette har jeg opnået i mit nuværende parforhold.. God is good..
 
 
 
-&nbsp;
+**2024**
+
+
 
 27 december 2024
 
@@ -1621,7 +1623,9 @@ I’d rather be perceived as authentic and boring, than funny and not able to se
 
 
 
-&nbsp;
+**2023**
+
+
 
 11 november 2023
 
@@ -2023,6 +2027,10 @@ A strong argument to why you should choose the path of awareness, even though be
 
 
 &nbsp;
+
+**2022**
+
+
 
 30 december 2022 14.47
 
