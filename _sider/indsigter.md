@@ -299,6 +299,8 @@ Folk der eksekverer hurtigt er ikke fordi de ikke har travlt, det er fordi de ha
 
 
 
+&nbsp;
+
 11 januar 2026 17.11
 
 Døm ikke dit liv ud fra den seneste dag, den seneste uge eller den seneste måned. Vær naturligvis observant om der er generelle mønstre på vej, men lad ikke en dårlig, kedelig eller hård dag definere hvor du står i livet.
