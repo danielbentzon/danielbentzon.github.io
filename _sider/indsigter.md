@@ -1599,101 +1599,111 @@ When assessing a person’s moral worth, look at their actions when no one else 
 
 
 
+&nbsp;
+
 11 januar 2024
 
 I’d rather be perceived as authentic and boring, than funny and not able to set boundaries.
 
 
 
+&nbsp;
+
 11 november 2023
 
 Hvis du arbejder med noget du har lyst til, behøves du ikke at holde arbejdsliv og privatliv hårdt adskilt.
-
-—
 
 Ligeledes, hvis du arbejder med noget du ikke har lyst til, vil du følge dig bundet og ikke særlig fri, hvis du ikke kan holde arbejdsliv og privatliv adskilt.
 
 
 
+&nbsp;
+
 13 oktober 2023
 
 Grandchildren are the gift from your kids for raising you.
 
+19 oktober 2026
+
+Men vejen til at spille en rolle i sit barnebarns liv er et privilegie, som går gennem dine børn.
 
 
-21 september 2023 18.56 (GMT+10)
+
+&nbsp;
+
+21 september 2023 18.56
 
 Find a craft, not work.
 
 
 
-20 september 2023 11.22 (GMT+10)
+&nbsp;
+
+20 september 2023 11.22 
 
 How do I decide if I actually learn something?
 
-—
-
 Eg, I am sitting in a programming class, and I am being presented to different techniques, but really I am passively being exposed to it. However, is this making me better equipped, as I now better know how things can be solved, but I am not really doing it myself.
-
-—
 
 So, in the moment, how do I decide whether I am learning something, or if I should use my time otherwise.
 
 
 
+&nbsp;
+
 11 september 2023
 
 “In order to heal, you need to feel.”
 
-- Sarah Beth Yoga.
+- Sarah Beth Yoga
 
 
+
+&nbsp;
 
 11 september 2023
 
 In return of accepting constant change in the workplace, employees require flexibility.
 
-—
-
 Flexibility to structure work hours, work location and how you solve problems.
 
 
+
+&nbsp;
 
 17 august 2023
 
 Don’t focus on increasing your salary, focus on growing your net worth.
 
-—
-
 Revisited 21 april 2025: Focus on growing your billable hours, not just your net worth. That will ultimately lead to more time, which will free your life to focus on other things that matter.
 
 
+
+&nbsp;
 
 4 august 2023
 
 Society is a game. Life is not.
 
-—
-
 And yes, society is part of life, but it is only a fraction.
-
-—
 
 If you play the game for too long, you just become a character without defining your own beliefs or values.
 
 
 
-4 august 2023 13.39 (GMT+10)
+&nbsp;
+
+4 august 2023 13.39 
 
 Be slow in transitions. Everyone has their own tempo, so ensuring that everbody is on board about what the next activity is about, gently wait a little longer than how you experience it yourself.
-
-—
 
 Also, don’t be afraid of taking breakes. They make an opportunity for new things to arise, and give renewed energy to the existing activity. If the activity requires a deep dive, then take less frequent but longer breakes.
 
 
 
-1 august 2023 19.04 (GMT+10)
+&nbsp;
+
+1 august 2023 19.04
 
 Two ways to meet more people.
 
@@ -1703,11 +1713,15 @@ Increase one or both of these areas to meet more people.
 
 
 
+&nbsp;
+
 31 juli 2023
 
 A woman don’t care about what you do. They care about how you make them feel. And a high social status will always make them feel attracted to you, almost no matter how you obtained it.
 
 
+
+&nbsp;
 
 27 juli 2023
 
@@ -1717,6 +1731,8 @@ The meaning of life is to find meaning in life.
 
 
 
+&nbsp;
+
 23 juli 2023
 
 Positive emotions surrounding meaningful experiences grows exponentially over time.
@@ -1725,15 +1741,17 @@ Our affection for material possessions does the opposite.
 
 
 
+&nbsp;
+
 23 juli 2023
 
 Serving others will lead to life lasting happiness.
 
-—
-
 In order to do so sustainably, you must take care of yourself first.
 
 
+
+&nbsp;
 
 23 juli 2023
 
@@ -1741,31 +1759,35 @@ The deeper you know yourself, the more you will understand the beauty of the nua
 
 
 
+&nbsp;
+
 23 juli 2023
 
 Incorporate the values you admire in others. These are your values.
 
 
 
+&nbsp;
+
 23 juli 2023
 
 Making rules for yourself serves the purpose of you not making the same mistakes.
 
-—
-
 However, make sure to revisit them as you grow older and more mature, and if life circumstances drastically change.
-
-—
 
 Your rules will also help you better navigate the world and make authentic choices for yourself.
 
 
 
+&nbsp;
+
 20 juli 2023
 
-Anxiety causes fatigue, not lack of sleep.
+Lack of sleep doesnt cause fatique, anxiety does.
 
 
+
+&nbsp;
 
 20 juli 2023
 
@@ -1773,15 +1795,17 @@ As long as you keep your door open, others will do the same for you.
 
 
 
+&nbsp;
+
 22 juni 2023
 
 You are wasting your time when you only engage with life unconsciously.
 
-—
-
 Being deliberate about something that may seem unproductive, like taking a long nap or watching a movie, is not wasted time, as long as you are conscious about why you do it.
 
 
+
+&nbsp;
 
 17 juni 2023
 
@@ -1789,45 +1813,43 @@ Whenever you feel high levels of anxiety, let the excitement of what you are abo
 
 
 
+&nbsp;
+
 17 juni 2023
 
 Stop measuring yourself on time spend on some task. Focus on the impact/quality of your output.
-
-—
 
 Instead of working long hours with shifting focus and hitting yourself in the head, put in your best effort in a shorter period of time, and discover that the quality of your output will be similar, and you will have gained a lot of free time to use on other passions.
 
 
 
+&nbsp;
+
 16 juni 2023 11.13
 
 “Emotions play a significant role in driving behaviour, serving as a primary source of energy and the starting point for action.”
 
-- Stickdorn, 2018.
-
-—
+- Stickdorn, 2018, Service design
 
 Don't underestimate the power of human emotion when introducing change in any field of work.
 
 
 
+&nbsp;
+
 21 maj 2023 21.39
 
 Hvilken rolle spiller tid og intensitet for oplevelsen af stress?
 
-—
-
 Så længe intens stress er relativt kortvarig, og næsten endnu finere hvis vi ved hvornår den ender, vil vi bedre kunne håndtere det uden varig skade. Eksempelvis et projekt som kræver særlig meget tid i en måned, vil stort set altid være til at kunne udholde, hvis der samtidig er en periode med ro bagefter.
 
-—
-
 For at kvantificere dette, kan man måle for meget tid man kan klare at arbejde. Dette afhænger naturligvis også af om der er ro på hjemmefronten, og andre dele af ens liv. Givet at det er tilfældet, bør man se på gennemsnittet af den tid man arbejder over et længere tidsrum.
-
-—
 
 Lad os sige at 40 timer er passende for dig, så betyder det ikke at du lige præcis er lige god til at arbejde alle 8 timer hver dag i ugen, eller at det nødvendigvis er påkrævet af dig. Det andet man skal have med i udregningen om hvorvidt man ligger for højt eller lavt, er ikke hvor mange timer man ligger i ugen, men i stedet for mange timer man ligger i kvartalen. På månedlig basis kan det nemlig også variere meget.
 
 
+
+&nbsp;
 
 6 marts 2023 23.10
 
@@ -1835,35 +1857,33 @@ The saying goes “You can’t control what happens in life, but you can control
 
 Perception comes before reaction.
 
-—
-
 If we look one step further, we better make sure that what we perceive is as objective as possible, so we can react as productive as possible.
 
 
+
+&nbsp;
 
 26 februar 2023 10.51
 
 Stop writing what tools you master in your resumé. Explain what you have accomplished by using the tool.
 
-—
-
 Everyone can learn how to use a tool, so the interesting thing is how you used it, and what the outcome was.
 
 
+
+&nbsp;
 
 18 februar 2023 10.31
 
 You may not be able to shorten your hangover, but you can affect how you perceive it.
 
-—
-
 Doing things that increases your dopamine levels, will make the hangover feel less intense, and relieve some of the uncomfortable feelings.
-
-—
 
 Therefore the saying “Just walk it off” is also relevant here, as walk it off, could mean get out in the sun, meet up with a friend, watch a good movie makes sense when you are hungover.
 
 
+
+&nbsp;
 
 16 februar 2023 12.46
 
@@ -1871,19 +1891,19 @@ It’s okay to be tired when you are around people. Tiredness is temporary and n
 
 
 
+&nbsp;
+
 2 februar 2023 09.46
 
 Den tone man får givet en besked, er man tilbøjelig til at lade gå videre i sin efterfølgende handling.
 
-—
-
 Jeg får en opgave i en stresset og hård tone, og får at vide at jeg skal indsamle info fra diverse personer, og at der er en stram deadline, så vil jeg være tilbøjelig til at handle på samme måde overfor dem som jeg ønsker hjælp fra.
-
-—
 
 Handl derfor roligt og venligt, det spreder sig.
 
 
+
+&nbsp;
 
 23 januar 2023 12.55
 
@@ -1894,31 +1914,27 @@ Forskellige lag af samtaler, fra lavere til højere niveau:
 3. Oplevelser
 4. Ideér, koncepter og abstraktioner.
 
+
+
+&nbsp;
+
 17 januar 2023
 
 How to navigate through life? Follow your intuition.
 
-—
-
 As long as we do our best everyday to cover the basic tasks of life, keeping a tidy home, work or studying, we should not try to steer our life in some direction that we think is good, because where does this direction come from?
-
-—
 
 Does it authentically come from ourselves, or when we try to consciously decide a direction instead come from external factors such as the opinions of our family, our fears, or the exceptions of the societies we live in?
 
-—
-
 We should instead have faith in the plan that God has put out to us, and is showing us through our intuition.
 
-—
-
 Then you might wonder, how will I know when it is my intuition speaking and not distracting external factors, feel your gut.
-
-—
 
 This will become easier through regularly practices such as journaling, meditation and praying.
 
 
+
+&nbsp;
 
 16 januar 2023 19.49
 
