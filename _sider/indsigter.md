@@ -959,8 +959,6 @@ Bedste råd:
 1. Lære at tænke kritisk.
 2. Lære at regulere sit eget følelsesliv.
 
-
-
 29 april 2025 08.37
 
 People comment on everything out of the ordinary. Don’t try to fight it just embrace your uniqueness.
@@ -1732,8 +1730,6 @@ Forskellige lag af samtaler, fra lavere til højere niveau:
 3. Oplevelser
 4. Ideér, koncepter og abstraktioner.
 
-
-
 17 januar 2023
 
 How to navigate through life? Follow your intuition.
@@ -1874,11 +1870,7 @@ Det bedste spørgsmål man kan stille til et andet menneske er dermed “Whats y
 
 Lad være med at forholde dig til alle mulige andre scenarier end den virkelighed som du står i lige nu.
 
-—
-
 Vores sind er lavet til at forholde sig til den virkelighed som vi er i lige nu, og ikke hvordan tingene kunne være.
-
-—
 
 Man skal derfor gøre det man har lyst til, og ikke det som man bør gøre - for hvor kommer det ‘bør’ egentlig fra, samfundet? SoMe? Hver ting til sin tid, og man skal kun tage udgangspunkt i sig selv.
 
@@ -1889,8 +1881,6 @@ Man skal derfor gøre det man har lyst til, og ikke det som man bør gøre - for
 Du vil kun kunne tvinge dig selv til at udføre en daglig aktivitet, hvis konsekvensen ved at lade være overstiger lysten til at undgå den.
 
 Eller hvis man er drevet af passion og et meget tydligt mål, som man derfor kompromisløst ønsker at opnå.
-
-—
 
 Fx at sætte sig og skrive 30 min på en blogpost dagligt. Det kommer kun til at ske hvis ovenstående er situationen.
 
@@ -1906,15 +1896,9 @@ Man kan ikke planlægge livet, men planlægning i livet kan være fantastisk til
 
 Man kan ikke ændre sin personlighed, men man kan godt ændre vise karaktertræk ved sin person.
 
-—
-
 Du kan godt ændre karakteristika såsom at være mere engageret i det du gør, være en person som løfter i flok, eller være typen der tager ansvar.
 
-—
-
 Man kan ligeledes ikke ændre sin personlighed, som dermed skal have lov til at skinne igennem. Man kan dog godt moderere sig selv ift situationen, fx arbejde eller lign.
-
-—
 
 Følgende kan ikke ændres ved sin personlighed, grundlæggende humor, interesser, kærlighedssprog etc.
 
@@ -1928,19 +1912,9 @@ Change is the only constant in life, and the pain of loss is fundamentally adapt
 
 
 
-10 november 2022 21.56
-
-As a man, you want to be characterised as kind and dangerous, and your goal is to protect and provide.
-
-- Andrew Tate.
-
-
-
 2 oktober 2022 21.21
 
 Competent leadership is about making a visonary long term strategy, and obtaining mutual respect between the leader and employee.
-
-—
 
 This can be achieved through the following traits:
 
@@ -1955,15 +1929,13 @@ This can be achieved through the following traits:
 
 
 
+&nbsp;
+
 30 september 2022 17.06
 
 The more alignment between personal values and work, the more prone a worker will be to let the boundaries between work and life blur out, leading to workers who want to walk the extra mile.
 
-—
-
 The task will be seen more as a passion project, rather than a chore a worker has to do.
-
-—
 
 Thus, create a culture that emphasis people wanting to be there, instead of having to be there.
 
@@ -1973,19 +1945,15 @@ Thus, create a culture that emphasis people wanting to be there, instead of havi
 
 Do what you want to do, but are afraid of, when you feel most on top.
 
-—
-
 I see many people stressing about wanting to do something when they feel weak and tired, because they did not face the challenges when they felt good.
 
-—
-
 Don’t let challenges build up so you are not in charge of when to face them. Seek out potential challenges when you feel motivated and energised, because the challenges will be there regardless of your mood.
-
-—
 
 The same goes for improving yourself (deliberately put yourself in situations outside your comfort zone, to better adapt to similar challenges). This should be done on your terms, so go out and face them when you just got that grade you wanted, or the girl you were interested in replied you back. If you don’t face the challenges a head, it will come at random times, which will catch you off guard.
 
 
+
+&nbsp;
 
 24 september 2022 11.03
 
