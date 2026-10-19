@@ -982,19 +982,15 @@ Skyld (eller dårlig samvittighed) er en sociliserende mekanisme, og kan være i
 
 Base your judgment on my presence, not my achievements.
 
-—
-
 Actions lye in between as they are important, but not the most essential, as you are not your actions, but how you carry yourself in the world, and based on that, your most authentic way of acting in the world will follow naturally.
 
-—
-
 We need to rethink our view on action. Is it action to do a keynote, run a marathon or a third easily measurable thing, or is it also action to sit still, reflect and go into depth with oneself? However, the introspection needs to lead to a transformation or some change in perspective, or else it just becomes avoidance. But, as our psychological system always try to self-balance, as long as we pay attention, it will lead to transformation, and then it is up to our free will to act upon it.
-
-—
 
 Thus, introspection creates the conditions for transformation.
 
 
+
+&nbsp;
 
 6 maj 2025 10.49
 
@@ -1002,11 +998,19 @@ Der er sket en interlektualisering af vores måde at opfatte verden. Hvad med vo
 
 
 
+&nbsp;
+
 5 maj 2025 08.39
 
-Det er sensitive mennesker som har mulighed for at stille spørgsmålstegn ved etablerede sandheder. Fx når man ikke længere kan henvende sig fysisk ved lægen, eller at man skal have en skanning af ens foster op på en skærm for at graviditeten bliver virkelig, fremfor at man blot mærker det nede i maven. Den mærkelige fornemmelse man kan få af denne over-institutionalisering, er hvad de fleste mennesker blot ryster af sig, mens fintfølende og sensitive mennesker i højere grad bliver påvirket af denne unaturlighed, og dermed har større mulighed for at reagere på det, nemlig ved at stille spørgsmålstegn til den udvikling de fleste mennesker tager for givet. Store organisationer har en interesse i at dulme denne sensitivitet da vi som borgere og forbrugere bliver nemmere at styre. Jf crappy content på sociale medier og vores stigende betagethed af dum reality.
+Det er sensitive mennesker som har mulighed for at stille spørgsmålstegn ved etablerede sandheder. 
+
+Fx når man ikke længere kan henvende sig fysisk ved lægen, eller at man skal have en skanning af ens foster op på en skærm for at graviditeten bliver virkelig, fremfor at man blot mærker det nede i maven. Den mærkelige fornemmelse man kan få af denne over-institutionalisering, er hvad de fleste mennesker blot ryster af sig, mens fintfølende og sensitive mennesker i højere grad bliver påvirket af denne unaturlighed, og dermed har større mulighed for at reagere på det, nemlig ved at stille spørgsmålstegn til den udvikling de fleste mennesker tager for givet. 
+
+Store organisationer har en interesse i at dulme denne sensitivitet da vi som borgere og forbrugere bliver nemmere at styre. Jf crappy content på sociale medier og vores stigende betagethed af dum reality.
 
 
+
+&nbsp;
 
 1 maj 2025 20.29
 
@@ -1017,6 +1021,8 @@ Lytter man dermed til podcasten som en distraktion eller ekstra stimuli til ens 
 Dette er lidt i relation til hvornår man kan og ikke bør tage stimuli i ørerne. Hvis man har en stor autentisk lyst og det ikke handler om at dissociere fra aktiviteten er det fint, men hvis man gør det for nemmere at komme igennem aktiviteten, såsom at gå en længere tur for at komme op på de notoriske 10.000 skridt om dagen, bør man ikke gøre det.
 
 
+
+&nbsp;
 
 29 april 2025 09.12
 
@@ -1031,27 +1037,35 @@ Bedste råd:
 1. Lære at tænke kritisk.
 2. Lære at regulere sit eget følelsesliv.
 
+
+
+&nbsp;
+
 29 april 2025 08.37
 
 People comment on everything out of the ordinary. Don’t try to fight it just embrace your uniqueness.
-
-—
 
 In my case, I always have a small box of a walnuts and people always comment on it because the nut is not your ordinary nut.
 
 
 
+&nbsp;
+
 25 april 2025 08.46
 
-Komplimenter fra mennesker som ikke kender en, går direkte til egoet, mens komplimenter fra mennesker som kender en godt, går til hjertet.
+Komplimenter fra mennesker som ikke kender en, går direkte til egoet, mens komplimenter fra mennesker som kender en, går direkte til hjertet.
 
 
+
+&nbsp;
 
 21 april 2025 21.07
 
 Meditation giver mulighed for at udforske sine ideer uden frygt, eftersom at man ikke klynger sig til processfænomenerne. Og man får ikke input fra omverdenen. Man er uforstyrret. Nogle gange skal det dog lige kalibreres til samfundets kontekst, men som udgangspunkt er ideerne rene.
 
 
+
+&nbsp;
 
 21 april 2025 15.07
 
@@ -1060,6 +1074,8 @@ Det giver faktisk ikke rigtig mening at have en plan for en dag præget med lyst
 Dette er givet at man har gjort sine praktiske forpligtelser.
 
 
+
+&nbsp;
 
 21 april 2025 14.26
 
@@ -1073,25 +1089,27 @@ Hvis det dog er muligt at komme i en søvntilstand, så er det stort set altid f
 
 
 
+&nbsp;
+
 21 april 2025 11.02
 
 Den meditative tilstand er en forudsætning for autentiske indsigter.
 
 
 
+&nbsp;
+
 21 april 2025 10.44
 
 If you unlock the creative parts of your soul, don’t get too hung up on the modularity.
 
-—
-
 Whether it fluctuates between speaking, writing, drawing, singing, dancing, breaking down problems, have faith in the process that what you are doing will someday be inspirational for others.
-
-—
 
 Because isn’t that what art is about? Igniting thoughts and feelings in others, that will ultimately lead to ideas that can be the foundation of action. That is impact.
 
 
+
+&nbsp;
 
 21 april 2025
 
@@ -1099,11 +1117,17 @@ Jo mere man arbejder med sig selv, desto mindre radikal vil ændringerne i ens l
 
 
 
+&nbsp;
+
 14 april 2025 12.52
 
-Mennesker som er meget distræte eller på anden måde opfattes som distancerede, døjer højest sandsynligt med en form for dissociation. De dissociere fra virkeligheden, fordi den er for svær og lidelsesfuld at være tilstede i. Typisk kommer tendensen fra traumer i opvæksten.
+Mennesker som er meget distræte eller på anden måde opfattes som distancerede, døjer højest sandsynligt med en form for dissociation. 
+
+De dissocierer fra virkeligheden, fordi den er for svær og lidelsesfuld at være tilstede i. Typisk kommer tendensen fra traumer i opvæksten.
 
 
+
+&nbsp;
 
 12 april 2025 14.12
 
@@ -1111,7 +1135,13 @@ Fokusér på folks intention, fremfor hvad de siger.
 
 Er intentionen god, men snubler personen over ordene, er det ikke det de sagde som man skal reagere på, men i stedet hvorfor de siger det.
 
+19 oktober 2026 20.24
 
+Dog er det endnu vigtigere at fokusere på folks handlinger fremfor deres intention. Ellers bliver det hurtigt en undskyldning de eller man selv laver for deres uhensigtmæssige handlinger. Fx at overskride ens grænser med for pågående samvær, bare fordi modparten gerne ville vise at de var engagerede i relationen.
+
+
+
+&nbsp;
 
 17 marts 2025 08.39
 
