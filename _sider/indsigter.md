@@ -1451,15 +1451,17 @@ The present moment.
 
 
 
+&nbsp;
+
 5 august 2024 09.15
 
 ‘Dannelse’ eats culture for breakfast.
 
-—
-
 Sandsynligheden for at møde ligesindede afhænger ikke i ligeså høj grad af hvilken kultur mennesker kommer fra. Det afhænger i højere grad af om de er dannede. Besynderligt nok er der ikke et ord på engelsk som dækker over dette. Det handler nemlig ikke om et menneskes sociale lag, men om hvilken verdensanskuelse de har, deres forhold til kunst, filosofi og historie.
 
 
+
+&nbsp;
 
 2 august 2024
 
@@ -1467,19 +1469,19 @@ Everything in life is networked and dynamic. Stop forcing things into static cat
 
 
 
+&nbsp;
+
 18 juli 2024
 
 How to make the least bad decision.
 
-—
-
 If the decision on a problem is specific, even though it is complex, trustfully count on your intuition when making the decision.
-
-—
 
 However, if the problem is vague, and still complex, note your immediate response, and use the valuable currency of time to gather data over a longer period from various sources such as your gut feeling, research or other people’s perspectives, to make the least bad decision.
 
 
+
+&nbsp;
 
 2 juni 2024
 
@@ -1487,27 +1489,29 @@ Use your device mindfully, don’t let it use you.
 
 
 
+&nbsp;
+
 1 juni 2024
 
 Comfort can be dangerous for your growth, especially if you never had it.
 
-—
-
 If you had a hard upbringing and reach a point in life of comfort, it can be difficult to change path from what got you there.
-
-—
 
 This is especially bad if your brain and fear tells you to stay on that path, but your heart and God tells you to go somewhere else.
 
 
 
+&nbsp;
+
 25 maj 2024
 
 “Sometimes the fear of disaster, will cause the disaster.”
 
-- Kung Fu Panda.
+- Oogway, Kung Fu Panda (movie)
 
 
+
+&nbsp;
 
 25 maj 2024
 
@@ -1515,11 +1519,15 @@ The ever lasting rhythm of crashing waves, is Mother Earth breathing.
 
 
 
+&nbsp;
+
 25 maj 2024
 
 Save up money when you earn a lot, not when your income is low.
 
 
+
+&nbsp;
 
 18 april 2024
 
@@ -1527,15 +1535,17 @@ News that stay relevant for at least a week are worth paying attention to, while
 
 
 
+&nbsp;
+
 15 april 2024
 
 Daily routines short term, gives energy for intuitiveness long term.
 
-—
-
 Having an organised and routinely planned everyday life, makes it more flexible for long term plans to change.
 
 
+
+&nbsp;
 
 15 april 2024 11.48
 
@@ -1543,55 +1553,59 @@ Luck is when thorough preparation meets opportunity.
 
 
 
+&nbsp;
+
 28 marts 2024
 
 Finding the balances in life is hard and beautiful.
 
 
 
+&nbsp;
+
 28 marts 2024 19.22
 
-How do you live a happy life? By serving others and remaining grateful. The opposite of this is being miserly and bitter.
+How do you live a happy life? 
+
+By serving others and remaining grateful. The opposite of this is being miserly and bitter.
 
 
+
+&nbsp;
 
 11 marts 2024
 
 Mental model to get a better time-sense of how the current month play its part in a year.
 
-—
-
 Instead of thinking about the month as a flat calendar, imagine an analog clock turned upside down. Each number represents the month.
 
 
+
+&nbsp;
 
 6 marts 2024
 
 The saying “Don’t get caught up in the past” is overrated.
 
-—
-
 We all have a baggage and experiences that have shaped us into who we are today.
-
-—
 
 Having documented your thoughts and feelings in a journal will make your future decisions inline with yourself, and ensure that you learn from your mistakes.
 
 
 
+&nbsp;
+
 6 marts 2024
 
 Always being honest is the biggest gift you can give to yourself.
 
-—
-
 Not having to come up with lies and excuses, makes your life and relationships stronger and more simple.
-
-—
 
 When you don’t have to worry about what you told whom when, you can be present and not worry about keeping up certain stories.
 
 
+
+&nbsp;
 
 6 marts 2024
 
