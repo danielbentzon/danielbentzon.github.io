@@ -1924,33 +1924,27 @@ This will become easier through regularly practices such as journaling, meditati
 
 Start embracing (healthy) stress.
 
-—
-
 Stress is like a weight. When you pick it up and use it, you will get stronger.
 
-—
-
 You’ll never receive what you cannot handle.
-
-—
 
 And you may not be able to control what’s happening to you and around you, but you can control how you react to it.
 
 
 
+&nbsp;
+
 16 januar 2023 12.03
 
 Setting goals is overrated.
 
-—
-
 When we set goals we put pressure on ourselves to achieve them.
-
-—
 
 Instead have the mindset, that you want to take your skills as far as you can take them, through hard work, networking and taking the opportunities that arise.
 
 
+
+&nbsp;
 
 16 januar 2023 11.01
 
@@ -1958,33 +1952,27 @@ How to overcome fear.
 
 Why don’t you just approach that pretty girl, it isn’t really dangerous, when it is just our minds playing tricks on us?
 
-—
-
 Yes, of cause it would be nice to just do the things that we want but scare us, so why dont we do it? Because we don’t always have the courage to the highest level of some thing we are afraid of.
 
-—
-
 As humans we have to start small and build up to our fear. For instance, if you are scared of spiders and especially big spiders, try to get familiar with the small first, then incrementally build up to bigger ones, and see that they are not harmful either.
-
-—
 
 We have to show our brain in its current state, that what we perceive as fear, is not something to be scared of. The same goes with jumping from heights, start small and build up. You will be amazed by how far you can go, if you increment just a little every time.
 
 
 
+&nbsp;
+
 15 januar 2023 12.53
 
 When life gets out of control, turn to your breath.
 
-—
-
 Your breath is one of the only constants in life, turn to your breath when life gets overwhelming, and try your best to navigate in a new and better direction.
-
-—
 
 Whether in an overwhelming concrete episode or a longer period of time, our breath will always be there. It can vary in pace and intervals, but it will stay a continuous in and out motion.
 
 
+
+&nbsp;
 
 12 januar 2023 23.47
 
@@ -1992,17 +1980,19 @@ Asking for forgiveness is easier than asking for permission.
 
 
 
+&nbsp;
+
 11 januar 2023 11.21
 
 You can only change what you are aware of.
 
 - Ofasu, Balance.app
 
-—
-
 A strong argument to why you should choose the path of awareness, even though being unaware is way more comfortable.
 
 
+
+&nbsp;
 
 30 december 2022 14.47
 
@@ -2010,25 +2000,21 @@ A strong argument to why you should choose the path of awareness, even though be
 
 Et spændende menneske er langt hen ad vejen bygget op af sine historier og evnen til at formidle dem. Dette kan man gøre på SoMe, eller inkorporere det i sin personlighed.
 
-Kommentar 21 april 2025: Man er ikke sine historier, men man er sin tilstedeværelse. Historier og narrativer spiller en vigtig rolle, men der er ubevidste lag i andre som opfanger ens ‘aura’ eller tilstedevær for det, det er.
+21 april 2025
 
-—
+Man er ikke sine historier, men man er sin tilstedeværelse. Historier og narrativer spiller en vigtig rolle, men der er ubevidste lag i andre som opfanger ens ‘aura’ eller tilstedevær for det, det er.
 
 Dette skaber et incitament for at tage ud i livet og opleve ting, da det videreudvikler ens identitet med nye erfaringer og oplevelser, som tilsammen kan mønte sig ud i spændende historier.
 
-—
-
 Dette er også i forlængelse af “Opinions aren’t sexy” og understreger at vores historier gør at man bliver et spændende menneske.
 
-—
-
 Det tager også pres væk fra at skulle have alle mulige titler. Det er dog en forudsætning at man er god til at fortælle og fremhæve sine historier, da de ikke kommer frem af sig selv.
-
-—
 
 Det bedste spørgsmål man kan stille til et andet menneske er dermed “Whats your story?”. Dette kan således udfolde sig i en samtale.
 
 
+
+&nbsp;
 
 27 december 2022 21.02
 
@@ -2040,6 +2026,8 @@ Man skal derfor gøre det man har lyst til, og ikke det som man bør gøre - for
 
 
 
+&nbsp;
+
 25 december 2022 23.29
 
 Du vil kun kunne tvinge dig selv til at udføre en daglig aktivitet, hvis konsekvensen ved at lade være overstiger lysten til at undgå den.
@@ -2050,11 +2038,15 @@ Fx at sætte sig og skrive 30 min på en blogpost dagligt. Det kommer kun til at
 
 
 
+&nbsp;
+
 25 december 2022 23.24
 
 Man kan ikke planlægge livet, men planlægning i livet kan være fantastisk til at realisere sine drømme.
 
 
+
+&nbsp;
 
 24 november 2022 18.19
 
@@ -2068,6 +2060,8 @@ Følgende kan ikke ændres ved sin personlighed, grundlæggende humor, interesse
 
 
 
+&nbsp;
+
 12 november 2022
 
 Change is the only constant in life, and the pain of loss is fundamentally adapting to change.
@@ -2075,6 +2069,8 @@ Change is the only constant in life, and the pain of loss is fundamentally adapt
 - Buddhism.
 
 
+
+&nbsp;
 
 2 oktober 2022 21.21
 
@@ -2104,6 +2100,8 @@ The task will be seen more as a passion project, rather than a chore a worker ha
 Thus, create a culture that emphasis people wanting to be there, instead of having to be there.
 
 
+
+&nbsp;
 
 30 september 2022 16.11
 
