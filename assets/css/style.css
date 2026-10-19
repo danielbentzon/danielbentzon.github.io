@@ -164,3 +164,13 @@ blockquote {
 /* ---------- Footer ---------- */
 footer { border-top: 1px solid #d4d4d4; padding: 1.2rem 0 2rem; color: #666; }
 footer p { margin: 0; }
+
+
+/* ---------- Indsigter ---------- */
+.note-date {
+  margin-bottom: 1.2rem;
+}
+
+.note-spacing {
+  margin-top: 3rem;
+}
