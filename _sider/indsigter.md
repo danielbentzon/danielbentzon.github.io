@@ -1187,7 +1187,9 @@ Når man derfor mærker sin træthed, kan det være et udtryk for at man skal g�
 
 20 januar 2025 17.39
 
-En af de mest undervurderede visdomskilder er kontakten til de ældre generationer. Samtidig er den omvendte kontakten afgørerende for at holde livet relevant og legende.
+En af de mest undervurderede visdomskilder er kontakten til de ældre generationer. 
+
+Samtidig er den omvendte kontakt til det ungdommelige afgørerende for at holde livet relevant og legende.
 
 
 
@@ -1198,6 +1200,8 @@ En af de mest undervurderede visdomskilder er kontakten til de ældre generation
 Jeg lever ikke for øjeblikke, men for øjeblikket.
 
 
+
+&nbsp;
 
 16 januar 2025 11.22
 
