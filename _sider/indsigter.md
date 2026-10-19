@@ -1211,6 +1211,8 @@ Dette transcenderer kultur, sociale forhold eller andre vilkår.
 
 
 
+&nbsp;
+
 7 januar 2025 08.31
 
 Formålet med livet? At nå til et sted, hvor man føler sig elsket for den man er, og at man fra det sted, udlever sin dharma.
@@ -1219,13 +1221,21 @@ Forudsætninger for at det kan opnås, er at man har lært hvem man selv er, og 
 
 Også at bidrage til, og give tilbage til fremtidige generationer.
 
+19 oktober 2026 20.32
 
+Damn.. Dette har jeg opnået i mit nuværende parforhold.. God is good..
+
+
+
+&nbsp;
 
 27 december 2024
 
 All humans are unique, but not all humans leave the same impact.
 
 
+
+&nbsp;
 
 19 december 2024 09.40
 
