@@ -343,11 +343,7 @@ Ja, man kommer til at gå på kompromis med visse individuelle ambitioner, men d
 
 Fx hvis man gik virkelig meget ned i tid, og dermed satte en markant bremse i sine karriereplaner, eller at ens ambitioner for sin egen sundhed og udseende blev negligeret i for høj grad, hvad ville man så have tilbage at stå på, hvis tingene skred i ens forhold, og man ikke længere skulle være sammen? 
 
-
-
-&nbsp;
-
-**Det er vigtigt at sikre sig selv en tilværelse, hvor det fælles liv ikke er fundamentet for ens eget liv.** 
+Det er vigtigt at sikre sig selv en tilværelse, hvor det fælles liv ikke er fundamentet for ens eget liv. 
 
 Ja, man kommer til at indgå i et partnerskab og et familiefællesskab, men i sidste ende dør vi alene. Dette er ikke sagt i en niehelistisk tone, men mere som et fokus på at blive ved med at være i stand til at lave en nogenlunde objektiv og retmæssig vurdering af hvor man selv som mand står i sit liv.
 
@@ -372,6 +368,54 @@ Ja, det skader ikke at modtage positive tilkendegivelser fra folk, men hvis hele
 Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for dit afkom at finde ind til sit Selv.
 
 
+
+-- TEST
+
+Test 1 manuel
+
+25 december 2025 20.16
+
+Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
+
+
+
+&nbsp;
+
+22 december 2025 21.49
+
+Få dine dopaminer fra en kilde som du selv kan styre.
+
+
+
+&nbsp;
+
+21 december 2025 20.05
+
+Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
+
+
+
+Test 2, chat:
+
+25 december 2025 20.16
+
+Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
+
+22 december 2025 21.49
+
+Få dine dopaminer fra en kilde som du selv kan styre.
+
+21 december 2025 20.05
+
+Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
+
+
+
+&nbsp;
+
+&nbsp;
+
+--
 
 **2025**
 
