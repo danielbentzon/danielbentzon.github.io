@@ -1145,29 +1145,35 @@ Dog er det endnu vigtigere at fokusere på folks handlinger fremfor deres intent
 
 17 marts 2025 08.39
 
-Every living being have a unique soul that cannot be put on a formula
+Every living being have a unique soul that cannot be put on a formula.
 
 
+
+&nbsp;
 
 27 februar 2025 22.10
 
 Det handler mere om at øge sin timepris, end at øge sin indtægt. Livet som selvstændig og den frihed som medfølger betyder ikke nødvendigvis mere fri til andre aktiviteter, men det gør det derimod hvis man kan frigive tid, ved at arbejde mindre for mere.
 
+19 oktober 2026 20.26
 
+Og i endnu højere grad at øge sin net worth. Vurdér ikke din indtægt om 20 år, vurdér din net worth.
+
+
+
+&nbsp;
 
 6 februar 2025
 
 At være træt er ikke det samme som at være søvnig.
 
-—
-
 Trætheden kan komme fra alle mulige forskellige faktorer, såsom psykiske og fysiske, hvorimod søvnighed kommer som konsekvens af for lidt eller ringe søvnkvalitet.
-
-—
 
 Når man derfor mærker sin træthed, kan det være et udtryk for at man skal gøre tingene anderledes, omend det er psykisk, eller fysisk som at træne mere eller spise sundere.
 
 
+
+&nbsp;
 
 4 februar 2025
 
@@ -1177,11 +1183,15 @@ Når man derfor mærker sin træthed, kan det være et udtryk for at man skal g�
 
 
 
+&nbsp;
+
 20 januar 2025 17.39
 
 En af de mest undervurderede visdomskilder er kontakten til de ældre generationer. Samtidig er den omvendte kontakten afgørerende for at holde livet relevant og legende.
 
 
+
+&nbsp;
 
 16 januar 2025 14.58
 
