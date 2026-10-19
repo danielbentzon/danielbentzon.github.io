@@ -210,7 +210,7 @@ Motivationen for meditation skal gerne findes i et behov eller en lyst. Ikke kun
 
 Don’t listen to the wise words of man. Listen to the word of God.
 
-Even though some of the advice on various online fora is intelligent and bringing new perspectives, don’t let that be the reason why you start acting or act in a certain way. Make it known to you in your heart, and listen to the whispers of God.
+Even though some of the advice on various online fora is intelligent and bringing new perspectives, don’t let that be the reason why you start acting or act in a certain way. Make it known to your heart, and listen to the whispers of God.
 
 
 
@@ -234,7 +234,7 @@ Selvdisciplin er at være pligtopfyldende uden styring af samvittighed, mens at 
 
 28 januar 2026 08.47 
 
-I den vestlige del af verdenen, undertrykker vi vores åndeligebehov konsekvent og dagligt.
+I den vestlige del af verdenen, undertrykker vi vores åndelige behov konsekvent og dagligt.
 
 I andre steder i verden er det en integreret del af deres dagligdag, måden at indgå i relation til naturen, til taknemmelighedspraksiser for det liv som er givet. 
 
@@ -368,6 +368,8 @@ Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for d
 
 
 
+&nbsp;
+
 **2025**
 
 
@@ -378,17 +380,23 @@ Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin k
 
 
 
+&nbsp;
+
 22 december 2025 21.49
 
 Få dine dopaminer fra en kilde som du selv kan styre.
 
 
 
+&nbsp;
+
 21 december 2025 20.05
 
 Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
 
 
+
+&nbsp;
 
 13 december 2025 17.27
 
@@ -406,6 +414,8 @@ Alternativet er at gå gennem livet med skyklapper på, og leve et middelmådigt
 
 
 
+&nbsp;
+
 11 december 2025 18.28
 
 Opinions aren’t sexy. Aldrig glem dette.
@@ -414,11 +424,15 @@ Og hvorfor er det sådan? Det er på den ene side fordi mennesker ikke kan relat
 
 
 
+&nbsp;
+
 11 december 2025 18.27
 
 Selvregulering er nøglen til at kunne tage konflikter på en konstruktiv måde.
 
 
+
+&nbsp;
 
 11 december 2025 18.26
 
@@ -427,6 +441,8 @@ At bevæge sig roligt i livet, og når omstændigheder er vanskelige, er et bevi
 Nogle gange kan mennesker godt kritisere en, eller føle sig distanceret fra en, hvis man ikke reagerer intuitivt følelsesmæssigt på begivenheder.
 
 
+
+&nbsp;
 
 11 december 2025 18.23
 
@@ -438,6 +454,8 @@ Fx at rette hver en lille detalje, i stedet for at sikre sig at de store linjer 
 
 
 
+&nbsp;
+
 27 november 2025 17.11
 
 Følelsen eller overbevisningen om tryghed skaber betingelserne for heling.
@@ -446,11 +464,15 @@ Når vi kan kigge rundt på de vigtigste områder af vores liv og mærke ind i v
 
 
 
+&nbsp;
+
 14 november 2025 10.36
 
 Refleksion + kritisk undersøgende tilgang + erfaringer = større erkendelse = afsæt for ny viden.
 
 
+
+&nbsp;
 
 2 november 2025 11.08
 
