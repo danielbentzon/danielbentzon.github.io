@@ -1243,11 +1243,15 @@ It is what you do when nobody is watching, that makes you, who you are.
 
 
 
+&nbsp;
+
 21 april 2025 10.35
 
 Finding it hard to strike the balance? Listen to your gut.
 
 
+
+&nbsp;
 
 13 december 2024 07.43
 
@@ -1257,25 +1261,31 @@ Det samme gælder ved andre alternative fortællinger. Hvis man ikke har en åbe
 
 
 
+&nbsp;
+
 12 december 2024 08.48
 
 Vores kroppe er kun til låns og en gave fra Gud.
 
 Vi skal derfor ikke blive bitre, hvis vi mister funktionalitet, men sætte pris på at vi har haft gaven så længe det varede, og dermed blive i taknemmelighedens rus.
 
-Kommentar, 21 april, 2025: Samme visdom findes i Buddhismen om at alt er foranderligt, og at vi ikke har noget kerne-selv.
+21 april 2025
+
+Samme visdom findes i Buddhismen om at alt er foranderligt, og at vi ikke har noget kerne-selv.
 
 
+
+&nbsp;
 
 25 november 2024
 
 Why do people who love each other, such as closely knitted familiy members, end up yelling at each other? Aren’t they supposed to be the people you respect the most and want to be gentle towards?
 
-—
-
 The reason; these people are also the ones you have the most feelings for and herefore a lot is at stake, and even though it should be the last people to yell at, it is almost inevitable, not happening.
 
 
+
+&nbsp;
 
 19 november 2024 16.05
 
@@ -1287,19 +1297,19 @@ The same goes with being nurturing and pleasing, that is feminine qualities, as 
 
 
 
+&nbsp;
+
 15 november 2024
 
 To be conscientious is not the same as being self-disciplined. Yes, it is a manifestation of discipline, but the focus is not on building oneself up; rather, it is on meeting others' expectations and thus avoiding a guilty conscience.
 
-—
-
 It is therefore important to ask why a person wishes to do an extensively good job. Is it about their own self-fulfilment, or is it about not letting other people down?
-
-—
 
 If your focus and priorities are not right, it will crush you in the long run. To be of service for someone else, you must first take care of yourself. No one else is going to do it for you.
 
 
+
+&nbsp;
 
 12 november 2024 11.55
 
@@ -1307,13 +1317,17 @@ Zoning out or daydreaming is coping from feeling what’s going on in your body.
 
 
 
+&nbsp;
+
 10 november 2024
 
 “You can’t argue with feelings, but you can argue with beliefs. It can be hard to distinguish between the two.”
 
-- Gabor Maté.
+- Gabor Maté
 
 
+
+&nbsp;
 
 2 november 2024
 
@@ -1321,15 +1335,17 @@ I don’t care about earning a lot, as long as I earn enough.
 
 
 
+&nbsp;
+
 1 november 2024 11.30
 
 Narcissism is being in love with one’s own reflection.
 
-—
-
 It is a wound in one’s own ability to love themself.
 
 
+
+&nbsp;
 
 28 oktober 2024
 
