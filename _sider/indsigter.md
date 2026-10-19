@@ -1,6 +1,32 @@
 ---
 permalink: /indsigter/
 ---
+
+-
+&nbsp;
+
+
+25 december 2025 20.16
+
+Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
+
+
+
+&nbsp;
+
+22 december 2025 21.49
+
+Få dine dopaminer fra en kilde som du selv kan styre.
+
+
+
+&nbsp;
+
+21 december 2025 20.05
+
+Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
+-
+
 10 august 2026
 
 Visdom er evnen til at dele eller anvende viden på det rigtige tidspunkt. 
