@@ -1353,11 +1353,15 @@ Learning to work with people you don’t like, is a big advantage.
 
 
 
+&nbsp;
+
 24 oktober 2024 17.40
 
 In management consultancy, the two most importance factors for success is to use your intuition and critical thinking.
 
 
+
+&nbsp;
 
 16 oktober 2024
 
@@ -1365,17 +1369,23 @@ Irritation is just suppressed anger.
 
 
 
+&nbsp;
+
 16 oktober 2024
 
 Uncontrollable angry outbursts are signs of unrecognized suffering.
 
 
 
+&nbsp;
+
 12 oktober 2024
 
 Becoming self disciplined will set your mind free, and ultimately lead to freedom in crucial aspects of your life.
 
 
+
+&nbsp;
 
 17 september 2024 22.17
 
@@ -1385,11 +1395,15 @@ Hvis ens partner er meget loyal, altid glad og elsker intens opmærksomhed (kara
 
 
 
+&nbsp;
+
 8 september 2024 17.52
 
 I am not a significantly unique human being, but I am special in the light of society.
 
 
+
+&nbsp;
 
 6 september 2024
 
@@ -1397,11 +1411,15 @@ Friction makes life interesting.
 
 
 
+&nbsp;
+
 2 september 2024
 
 Loving kindness is the gateway to another person’s heart.
 
 
+
+&nbsp;
 
 21 august 2024
 
@@ -1409,17 +1427,21 @@ Having many material possessions is okay, as long as you remain emotionally deta
 
 
 
+&nbsp;
+
 19 august 2024 10.15
 
 Det skræmmende ved dybdegående indsigtsmeditation er at man ikke ved hvad der kommer frem.
 
-—
-
 Måske man skal omlægge sit liv fuldstændig, eller blive konfronteret med meget svære erkendelser.
 
-Kommentar 21 april, 2025, post Vipassa retreat: Denne frygt bliver kun en realitet hvis man i lang tid har levet et uautentisk liv, og ikke hørt efter på sit kald.
+21 april 2025, post Vipassa retreat
+
+Denne frygt bliver kun en realitet hvis man i lang tid har levet et uautentisk liv, og ikke hørt efter på sit kald.
 
 
+
+&nbsp;
 
 7 august 2024
 
