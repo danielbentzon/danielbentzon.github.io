@@ -1,4 +1,5 @@
 ---
+title: Indsigter
 permalink: /indsigter/
 ---
 10 august 2026
@@ -8,7 +9,6 @@ Visdom er evnen til at dele eller anvende viden på det rigtige tidspunkt.
 Nogle gange er det bedste råd det mest simple. Det er fint med tidløs indianerfilosofi, men hvis man bliver spurgt ind til hvorfor nogen føler sig utrygge, er det måske mere passende at fortælle dem at de er gode nok som de er. 
 
 
-&nbsp;
 
 21 juli 2026
 
@@ -367,11 +367,9 @@ Ja, det skader ikke at modtage positive tilkendegivelser fra folk, men hvis hele
 Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for dit afkom at finde ind til sit Selv.
 
 
-&nbsp;
 
 **2025**
 
-&nbsp;
 
 
 25 december 2025 20.16
@@ -379,23 +377,17 @@ Mål succesen af dit forældreskab i hvor lang og stor en process, det er, for d
 Fitness breathwork er grundlæggende bypassing. Det er svært at lytte til sin krop når man overskrider den.
 
 
-&nbsp;
-
 
 22 december 2025 21.49
 
 Få dine dopaminer fra en kilde som du selv kan styre.
 
 
-&nbsp;
-
 
 21 december 2025 20.05
 
 Mennesker er irrationelle, og vi er troende før vi er ikke-troende.
 
-
-&nbsp;
 
 
 13 december 2025 17.27
@@ -413,8 +405,6 @@ Det er derfor centralt altid at forberede sig på at vinden vender, uden at det 
 Alternativet er at gå gennem livet med skyklapper på, og leve et middelmådigt liv, hvor man aldrig rigtig kommer i kontakt med noget, og dermed finder man ikke ind til meningen.
 
 
-&nbsp;
-
 
 11 december 2025 18.28
 
@@ -423,15 +413,11 @@ Opinions aren’t sexy. Aldrig glem dette.
 Og hvorfor er det sådan? Det er på den ene side fordi mennesker ikke kan relatere følelsesmæssigt med meninger. De relaterer med følelser. Og mennesker er meget følelsesmæssigt styret, selvom vi måske ikke anderkender det.
 
 
-&nbsp;
-
 
 11 december 2025 18.27
 
 Selvregulering er nøglen til at kunne tage konflikter på en konstruktiv måde.
 
-
-&nbsp;
 
 
 11 december 2025 18.26
@@ -440,8 +426,6 @@ At bevæge sig roligt i livet, og når omstændigheder er vanskelige, er et bevi
 
 Nogle gange kan mennesker godt kritisere en, eller føle sig distanceret fra en, hvis man ikke reagerer intuitivt følelsesmæssigt på begivenheder.
 
-
-&nbsp;
 
 
 11 december 2025 18.23
@@ -453,8 +437,6 @@ Når man sidder til langt ud på natten med en opgave, som man kunne have færdi
 Fx at rette hver en lille detalje, i stedet for at sikre sig at de store linjer er på plads, handler det ikke længere om at lave et formidlingsarbejde, men om at tilfredsstille sin egen neuroticisme.
 
 
-&nbsp;
-
 
 27 november 2025 17.11
 
@@ -463,15 +445,11 @@ Følelsen eller overbevisningen om tryghed skaber betingelserne for heling.
 Når vi kan kigge rundt på de vigtigste områder af vores liv og mærke ind i vores system at vi er trygge, skaber det vilkårene for at en helingsproces kan blomstre. Det er altså ikke trygheden i sig selv som er helende. Det er de handlinger man foretager under de betingelser som trygheden skaber. Fx somatisk tracking eller andet meditativt arbejde.
 
 
-&nbsp;
-
 
 14 november 2025 10.36
 
 Refleksion + kritisk undersøgende tilgang + erfaringer = større erkendelse = afsæt for ny viden.
 
-
-&nbsp;
 
 
 2 november 2025 11.08
@@ -481,8 +459,6 @@ Hvis man føler at man ikke har nok tid, er det udelukkende fordi man bruger den
 Så længe man prioriterer de rigtige menneske og lader være med at spilde tid med at scrolle mindless på sin telefon, så har man den tid man skal bruge.
 
 
-&nbsp;
-
 
 29 oktober 2025 08.14
 
@@ -490,8 +466,6 @@ Det, og det andet, fremfor alt eller intet.
 
 Bring nuancerne i spil og accepter at der altid er den anden side af en sag, som også er vigtig, men måske ikke vigtigst. Altså ens eget umiddelbare ståsted.
 
-
-&nbsp;
 
 
 6 oktober 2025 20.30
@@ -515,15 +489,11 @@ Det vil rent kunne understøtte påstande om at man var villig til rent faktisk 
 Det kræver naturligvis at man har ressourcer til at opsøge den fornødne hjælp.
 
 
-&nbsp;
-
 
 2 september 2025 16.42
 
 Hvad kan du stemme i dag, som gavner dine børn og den kommende generation?
 
-
-&nbsp;
 
 
 31 august 2025 20.11
@@ -532,8 +502,6 @@ Kvinders seksuelle tiltrækning af mænd er lineær og hvis den brydes, kan den 
 
 Mænds seksuelle tiltrækning af kvinder er derimod svingende, så den kan godt komme og gå i perioder. Den er i højere grad bundet op på fysiske attributer fremfor psykologisk stimuli.
 
-
-&nbsp;
 
 
 25 august 2025 20.31
@@ -545,8 +513,6 @@ Fx når man går en tur, filtrerer man mange indtryk ude i byen, mens man i skov
 Det er to meget forskellige tilstande at være og vokse op i.
 
 
-&nbsp;
-
 
 18 august 2025 07.46
 
@@ -554,8 +520,6 @@ Hovedet kommer sig hurtigere end kroppen, så det er vigtigt at vise tålmodighe
 
 Fx kan man tænke at man er klar til at kaste sig ud i nye udfordringer, men kroppen er faktisk ikke helt parat endnu, og det vil man kunne mærke.
 
-
-&nbsp;
 
 
 13 august 2025 15.28
@@ -565,15 +529,11 @@ At undertrykke sin libido er at undertrykke sin seksualitet. Dette fører til pe
 Det er altså vigtigt at kanalisere sin livsenergi ud i projekter som er meningsfulde. Ellers ender det med at blive rettet mod forstyrrelser som perversion.
 
 
-&nbsp;
-
 
 13 august 2025 15.27
 
 Opmærksomheden på sin vejrtrækning kan ses som det gyldne lyn. Nogle gange kan det fastholdes, dog med vished om forfængelighed, og andre gange flyver det langt væk og er ikke engang i ens synsfelt.
 
-
-&nbsp;
 
 
 12 august 2025 08.34
@@ -585,23 +545,17 @@ Det er den ikke hvis man er fyldt med emotioner eller angst. Så kan den være i
 Derfor er det vigtigt at balancere sig selv, inden man mærker efter i sin krop som vejleder.
 
 
-&nbsp;
-
 
 11 august 2025 15.02
 
 For mig handler det ikke om godt eller dårligt vejr, altså om der er sol, regn eller blæst. I stedet påvirker det mig om der er dagslys eller ej. Ellers tager jeg blot tøjet på efter vejret.
 
 
-&nbsp;
-
 
 11 august 2025 10.13
 
 Vi bruger mange begreber i den daglige tale og i samfundsdebatten uden at være sikre på at vi taler om det samme. Hvordan definerer vi det at rejse, hvad er og hvornår er man forelsket, og i hvad?
 
-
-&nbsp;
 
 
 2 august 2025 13.40
@@ -610,8 +564,6 @@ Det er umuligt at leve livet hvis man har for travlt. Det vil medføre en ophobn
 
 Det er derfor vigtigt at give sig tid til at fordøje hverdagens indtryk, så man har kapacitet til at tage nye indtryk ind i nuet.
 
-
-&nbsp;
 
 
 1 august 2025 16.59
@@ -623,15 +575,11 @@ Når man kommer træt hjem fra sine dagsgøremål og vælger at hive telefonen o
 Og en dårlig selvregulering, medfører mennesker som reagerer uproportionalt med virkeligheden, hvilket er til stor ødelæggelse for alle mennesker omkring sig.
 
 
-&nbsp;
-
 
 1 august 2025 07.59
 
 Det føles bedre at selvoptimere når livet er lidt travlt, for ellers går man og optimerer et liv som har kapacitet til større ændringer fremfor at opsøge dem.
 
-
-&nbsp;
 
 
 17 juli 2025 13.44
@@ -643,8 +591,6 @@ Det er gavnligt at stille spørsmål ved først og fremmest hvad er en ambition,
 Hvor det at være visionær handler mere om at turde tænke store originale tanker og at ønske at udrette noget som måske er større end en selv og ikke på samme måde forankret i ens ego, som jeg føler at ambitioner kan være.
 
 
-&nbsp;
-
 
 11 juli 2025 07.48
 
@@ -653,15 +599,11 @@ Bare fordi man har mulighed og klarhed til at tage svære samtaler med sine nær
 Det er vigtigt at mærke efter i sig selv om man er klar til det, da disse samtaler er hårde og krævende for systemet.
 
 
-&nbsp;
-
 
 11 juli 2025 07.47
 
 Kærlighed og lidelse er to veje til Gud.
 
-
-&nbsp;
 
 
 8 juli 2025 20.27
@@ -673,8 +615,6 @@ Fx kan nogle mennesker ikke have at børn skal lide, så derfor laver de humanit
 Hvis man derimod lader sig lede af nysgerrighed og stiller spørgsmålet “hvordan kan det være at børn forsat skal udsættes for lidelse?” fremfor “jeg kan ikke have at børn udsættes for lidelse”. Det er to ret forskellige kilder til handling. Den ene bliver ved med at give, mens den anden har begrænset energi.
 
 
-&nbsp;
-
 
 8 juli 2025 07.55
 
@@ -682,8 +622,6 @@ For at lyst kan være et vejledende kompas, er det en forudsætning at man er ti
 
 Ellers er det for vanskeligt at mærke sin autentiske lyst, hvis ens behov ikke er opfyldte. Så bliver det i stedet impuls og bypassing.
 
-
-&nbsp;
 
 
 7 juli 2025 21.44
@@ -693,8 +631,6 @@ Kilden til meget lidelse, kommer af de løgne vi fortæller os selv.
 Og dermed også vores manglende mod til at se virkeligheden for hvad den er.
 
 
-&nbsp;
-
 
 2 juli 2025 10.59
 
@@ -702,8 +638,6 @@ Og dermed også vores manglende mod til at se virkeligheden for hvad den er.
 
 Temmelig sigende for hvad folk egentlig ønsker, når de forstyrres. De vil egentlig gerne bare have lov til at være, uden at skulle gøre noget specifikt eller tillade forstyrrelse. Man vil gerne bare, være.
 
-
-&nbsp;
 
 
 1 juli 2025 10.20
@@ -715,8 +649,6 @@ Når der sker noget med nogen ude i verden føles det langt mindre påvirkende, 
 Derfor er det også svært at slå igennem som kunstner i andre lande, fordi folk ikke har en særlig stærk identifikation med dig.
 
 
-&nbsp;
-
 
 27 juni 2025 08.20
 
@@ -724,8 +656,6 @@ Jeg ønsker at være idealist gennem handling ikke gennem ord.
 
 Hver gang der er mulighed for at blive sat eller selv sætte sig op på den moralske højhest, er det bedst at holde ordene tilbage, og i stedet inspirere gennem handling.
 
-
-&nbsp;
 
 
 19 juni 2025 12.38
@@ -737,8 +667,6 @@ Det er derfor vigtigt at turde spørge sig selv, ikke hvad har jeg lyst til lige
 Fx kan man have lyst til at se TV med sin kæreste, men egentlig har man brug for at sidde med sine tanker for sig selv.
 
 
-&nbsp;
-
 
 17 juni 2025 13.12
 
@@ -746,8 +674,6 @@ Luk computeren når du spiser. Du overlever nok de 15 minutter det tager at spis
 
 Vær tilstede med den aktivitet du er i gang med, og giv dig selv tid og plads til en pause.
 
-
-&nbsp;
 
 
 16 juni 2025 17.23
@@ -761,8 +687,6 @@ For ja, det er naturligt og godt for os med fysisk aktivitet, men hvis det blive
 Depression fortæller os nemlig at noget i os er undertrykt, og hvis vi undertrykker det længe nok, giver kroppen efter og går i en depressiv tilstand.
 
 
-&nbsp;
-
 
 15 juni 2025 15.06
 
@@ -770,8 +694,6 @@ Når folk dokumenter ting med deres mobil fremfor at opleve det selv og bare nyd
 
 Dette afføder lidelse, fordi et hvert øjeblik er øjeblikkeligt foranderligt.
 
-
-&nbsp;
 
 
 12 juni 2025 15.47
@@ -781,8 +703,6 @@ I store virksomheder, fra det øverste organisatoriske niveau, bestyrelsen og de
 På afdelingsniveau handler det derimod også om mennesker. Det samme gør sig gældende i små virksomheder på ca max 50 mennesker.
 
 
-&nbsp;
-
 
 12 juni 2025 10.07
 
@@ -791,8 +711,6 @@ Hvis man skal bruge porno for at onanere, har man ikke naturlig lyst nok.
 Vent derfor med at onanere til at lysten er stor nok til ikke at kunne lade være. Så gør man det fordi det er en naturlig drift, ikke fordi man keder sig eller savner stimuli.
 
 
-&nbsp;
-
 
 11 juni 2025 08.22
 
@@ -800,8 +718,6 @@ Hvad er det som ingen lyd har, men alligevel larmer så de færreste kan holde d
 
 Stilhed.
 
-
-&nbsp;
 
 
 10 juni 2025 19.04
@@ -812,8 +728,6 @@ Fx at have været på noget så anderledes som et 7 dages stille retræte. Gør 
 
 Samfundet har dog et stort ønske om at ville forstå ting, så det ikke stiller for mange spørgsmål til den måde de fleste vælger at leve deres liv på, så derfor vil det meget gerne sætte folk i kasser. Det kommer på godt og ondt, og er en mekanisme som altid vil eksistere i et samfund, så det må man lære at acceptere, når man vælger at gå sin egen vej.
 
-
-&nbsp;
 
 
 9 juni 2025 14.41
@@ -830,8 +744,6 @@ Real generosity isn't about grand gestures or visible virtue. It's about the slo
 
 That’s what truly challenges materialism, not lofty ideals, but the quiet practice of needing less and grasping less.
 
-
-&nbsp;
 
 
 9 juni 2025 14.36
@@ -859,8 +771,6 @@ Why do we need to follow trends?
 Why do we need AI?
 
 
-&nbsp;
-
 
 1 juni 2025 13.50
 
@@ -870,8 +780,6 @@ Man bestemmer selv om man reagerer på en impuls, men man bestemmer ikke selv im
 
 Fx at vende hovedet efter en flot pige som går forbi.
 
-
-&nbsp;
 
 
 28 maj 2025 08.53
@@ -883,8 +791,6 @@ Jeg beundrer og værdsætter fokuseret arbejde mere end hårdt arbejde.
 Når de to kombineres derimod, får man opskriften på at være i stand til at nå sine mål.
 
 
-&nbsp;
-
 
 27 maj 2025 16.30
 
@@ -894,8 +800,6 @@ Desto svagere kontakt man har til sig selv, desto sværere bliver det at selvreg
 
 Gaming og reality tager os væk fra os selv. Derfor er det ikke godt at tænde for som det første når vi kommer hjem fra dagens gøremål. Det er i denne omstilling at vi skal mærke ind i os selv, er finde ud af hvad vi har brug for, fremfor at distrahere os fra muligheden for at lytte til vores krop.
 
-
-&nbsp;
 
 
 23 maj 2025 08.56
@@ -910,8 +814,6 @@ Den mandlige pendant er, når man som mand kommer hjem og ser sin kæreste sidde
 
 Det bliver særligt tydeligt, hvis kvinden kommer hjem fra et arbejde, hun er ligeglad med. For så føles passiviteten ikke som restitution, men som resignation. Og mange par mærker her en form for asymmetri, hvor kvinder ikke ønsker at være de eneste, der tager ansvar i hjemmet, mens mænd ikke ønsker at være de eneste, der tager ansvar for retning, formål og personlig udvikling.
 
-
-&nbsp;
 
 
 22 maj 2025 12.19
@@ -939,8 +841,6 @@ En reel interesse i business kan dog eksistere, hvis den udspringer af nysgerrig
 Forudsætningen er, at der er overensstemmelse mellem egne værdier og virksomhedens. Ellers er det bare endnu et statusprojekt forklædt som arbejde.
 
 
-&nbsp;
-
 
 21 maj 2025 08.11
 
@@ -953,8 +853,6 @@ Sætte grænser i sine personlige relationer så man ikke får stress.
 Sætte naturen for profit.
 
 
-&nbsp;
-
 
 12 maj 2025 17.57
 
@@ -964,8 +862,6 @@ Jeg finder mennesker interessante som brænder for at være til gavn for andre m
 
 Det absolut kedeligste er mennesker som arbejder for at tjene penge, og dyrke sport for at øge sin præstation. Intet altruistisk over det. Ego-drevet-begær.
 
-
-&nbsp;
 
 
 11 maj 2025 09.21
@@ -980,8 +876,6 @@ For tillidsfuldt at kunne læne sig ind til den guddommelige intelligens, kræve
 
 Omvendt er det dog vigtigt at kunne gøre det, hvis ens fundament krakelerer, såsom hvis ens lejlighed opsiges eller kæresten går fra en. Her kan det være nødvendigt at tage nogle faste skridt i en meget specifik retning, for at hive sig selv op ad hullet, for derefter at kunne mærke friheden igen, ved at have tillid til den guddommelige plan og intelligens.
 
-
-&nbsp;
 
 
 10 maj 2025 08.08
@@ -1005,15 +899,11 @@ Det skyldes en kombination af emotionel inerti (hjernen sparer energi og undgår
 Det afhænger. Modstand før en aktivitet kan enten være tegn på reel udmattelse eller blot på lav aktivering. Lær at skelne: Tunghed går ofte væk når man kommer i gang, mens udmattelse forværres. Brug 5-minutters-reglen: start aktiviteten, og stop kun hvis modstanden stadig føles ægte. Spørg også: “Har jeg brug for energi eller ro?” – nogle gange er bevægelse den bedste form for restitution. Over tid kan du se mønstre: hvis du næsten altid nyder aktiviteten, selvom du tøver, kan du trygt tage afsted. Det handler om at lære kroppens sprog.
 
 
-&nbsp;
-
 
 7 maj 2025 10.39
 
 Skyld er en sociliserende mekanisme, og kan være indlejret i et livshistorisk mønster. Det samme med angst. Det er bare emotioner. De kan afføde nye reaktioner, og når man reagerer forstærker man dem.
 
-
-&nbsp;
 
 
 7 maj 2025 09.19
@@ -1033,23 +923,17 @@ We need to rethink our view on action. Is it action to do a keynote, run a marat
 Thus, introspection creates the conditions for transformation.
 
 
-&nbsp;
-
 
 6 maj 2025 10.49
 
 Der er sket en interlektualisering af vores måde at opfatte verden. Hvad med vores indre billeder, følelser, intuition, alt det som sker, der ikke kan forklares med interlekt?
 
 
-&nbsp;
-
 
 5 maj 2025 08.39
 
 Det er sensitive mennesker som har mulighed for at stille spørgsmålstegn ved etablerede sandheder. Fx når man ikke længere kan henvende sig fysisk ved lægen, eller at man skal have en skanning af ens foster op på en skærm for at graviditeten bliver virkelig, fremfor at man blot mærker det nede i maven. Den mærkelige fornemmelse man kan få af denne over-institutionalisering, er hvad de fleste mennesker blot ryster af sig, mens fintfølende og sensitive mennesker i højere grad bliver påvirket af denne unaturlighed, og dermed har større mulighed for at reagere på det, nemlig ved at stille spørgsmålstegn til den udvikling de fleste mennesker tager for givet. Store organisationer har en interesse i at dulme denne sensitivitet da vi som borgere og forbrugere bliver nemmere at styre. Jf crappy content på sociale medier og vores stigende betagethed af dum reality.
 
-
-&nbsp;
 
 
 1 maj 2025 20.29
@@ -1060,8 +944,6 @@ Lytter man dermed til podcasten som en distraktion eller ekstra stimuli til ens 
 
 Dette er lidt i relation til hvornår man kan og ikke bør tage stimuli i ørerne. Hvis man har en stor autentisk lyst og det ikke handler om at dissociere fra aktiviteten er det fint, men hvis man gør det for nemmere at komme igennem aktiviteten, såsom at gå en længere tur for at komme op på de notoriske 10.000 skridt om dagen, bør man ikke gøre det.
 
-
-&nbsp;
 
 
 29 april 2025 09.12
@@ -1078,8 +960,6 @@ Bedste råd:
 2. Lære at regulere sit eget følelsesliv.
 
 
-&nbsp;
-
 
 29 april 2025 08.37
 
@@ -1090,23 +970,17 @@ People comment on everything out of the ordinary. Don’t try to fight it just e
 In my case, I always have a small box of a walnuts and people always comment on it because the nut is not your ordinary nut.
 
 
-&nbsp;
-
 
 25 april 2025 08.46
 
 Komplimenter fra mennesker som ikke kender en, går direkte til egoet, mens komplimenter fra mennesker som kender en godt, går til hjertet.
 
 
-&nbsp;
-
 
 21 april 2025 21.07
 
 Meditation giver mulighed for at udforske sine ideer uden frygt, eftersom at man ikke klynger sig til processfænomenerne. Og man får ikke input fra omverdenen. Man er uforstyrret. Nogle gange skal det dog lige kalibreres til samfundets kontekst, men som udgangspunkt er ideerne rene.
 
-
-&nbsp;
 
 
 21 april 2025 15.07
@@ -1115,8 +989,6 @@ Det giver faktisk ikke rigtig mening at have en plan for en dag præget med lyst
 
 Dette er givet at man har gjort sine praktiske forpligtelser.
 
-
-&nbsp;
 
 
 21 april 2025 14.26
@@ -1130,15 +1002,11 @@ Man kan ellers fejlagtigt begynde at tage en lur for at genvinde sin mentale ene
 Hvis det dog er muligt at komme i en søvntilstand, så er det stort set altid fordelagtigt, så længe man gør det i de korrekte cyklusser.
 
 
-&nbsp;
-
 
 21 april 2025 11.02
 
 Den meditative tilstand er en forudsætning for autentiske indsigter.
 
-
-&nbsp;
 
 
 21 april 2025 10.44
@@ -1154,23 +1022,17 @@ Whether it fluctuates between speaking, writing, drawing, singing, dancing, brea
 Because isn’t that what art is about? Igniting thoughts and feelings in others, that will ultimately lead to ideas that can be the foundation of action. That is impact.
 
 
-&nbsp;
-
 
 21 april 2025
 
 Jo mere man arbejder med sig selv, desto mindre radikal vil ændringerne i ens liv skulle være. Det vil foregå mere inkrementalt som følge af nye indsigter, men radikaliteten vil være mindre, da man allerede nærmer sig sit selv. Dog vil foranderligheden være konstant, da der hele tiden vil blive afviklet nye lag, og ens virkelighedsopfattelse dermed hele tiden vil ændre sig.
 
 
-&nbsp;
-
 
 14 april 2025 12.52
 
 Mennesker som er meget distræte eller på anden måde opfattes som distancerede, døjer højest sandsynligt med en form for dissociation. De dissociere fra virkeligheden, fordi den er for svær og lidelsesfuld at være tilstede i. Typisk kommer tendensen fra traumer i opvæksten.
 
-
-&nbsp;
 
 
 12 april 2025 14.12
@@ -1180,23 +1042,17 @@ Fokusér på folks intention, fremfor hvad de siger.
 Er intentionen god, men snubler personen over ordene, er det ikke det de sagde som man skal reagere på, men i stedet hvorfor de siger det.
 
 
-&nbsp;
-
 
 17 marts 2025 08.39
 
 Every living being have a unique soul that cannot be put on a formula
 
 
-&nbsp;
-
 
 27 februar 2025 22.10
 
 Det handler mere om at øge sin timepris, end at øge sin indtægt. Livet som selvstændig og den frihed som medfølger betyder ikke nødvendigvis mere fri til andre aktiviteter, men det gør det derimod hvis man kan frigive tid, ved at arbejde mindre for mere.
 
-
-&nbsp;
 
 
 6 februar 2025
@@ -1212,8 +1068,6 @@ Trætheden kan komme fra alle mulige forskellige faktorer, såsom psykiske og fy
 Når man derfor mærker sin træthed, kan det være et udtryk for at man skal gøre tingene anderledes, omend det er psykisk, eller fysisk som at træne mere eller spise sundere.
 
 
-&nbsp;
-
 
 4 februar 2025
 
@@ -1222,23 +1076,17 @@ Når man derfor mærker sin træthed, kan det være et udtryk for at man skal g�
 - August Bradley, Notion systems thinking Youtuber.
 
 
-&nbsp;
-
 
 20 januar 2025 17.39
 
 En af de mest undervurderede visdomskilder er kontakten til de ældre generationer. Samtidig er den omvendte kontakten afgørerende for at holde livet relevant og legende.
 
 
-&nbsp;
-
 
 16 januar 2025 14.58
 
 Jeg lever ikke for øjeblikke, men for øjeblikket.
 
-
-&nbsp;
 
 
 16 januar 2025 11.22
@@ -1247,8 +1095,6 @@ Interesseret i at undersøge universets mysterier? Der er en lille del af univer
 
 Dette transcenderer kultur, sociale forhold eller andre vilkår.
 
-
-&nbsp;
 
 
 7 januar 2025 08.31
@@ -1260,15 +1106,11 @@ Forudsætninger for at det kan opnås, er at man har lært hvem man selv er, og 
 Også at bidrage til, og give tilbage til fremtidige generationer.
 
 
-&nbsp;
-
 
 27 december 2024
 
 All humans are unique, but not all humans leave the same impact.
 
-
-&nbsp;
 
 
 19 december 2024 09.40
@@ -1276,15 +1118,11 @@ All humans are unique, but not all humans leave the same impact.
 It is what you do when nobody is watching, that makes you, who you are.
 
 
-&nbsp;
-
 
 21 april 2025 10.35
 
 Finding it hard to strike the balance? Listen to your gut.
 
-
-&nbsp;
 
 
 13 december 2024 07.43
@@ -1293,8 +1131,6 @@ Hvis man ikke er klar eller har lyst, vil Gud altid virke uvirkelig.
 
 Det samme gælder ved andre alternative fortællinger. Hvis man ikke har en åbenhed over for dem fra start, vil det ikke blive værd at tro på, fx astrologi.
 
-
-&nbsp;
 
 
 12 december 2024 08.48
@@ -1306,8 +1142,6 @@ Vi skal derfor ikke blive bitre, hvis vi mister funktionalitet, men sætte pris 
 Kommentar, 21 april, 2025: Samme visdom findes i Buddhismen om at alt er foranderligt, og at vi ikke har noget kerne-selv.
 
 
-&nbsp;
-
 
 25 november 2024
 
@@ -1318,8 +1152,6 @@ Why do people who love each other, such as closely knitted familiy members, end 
 The reason; these people are also the ones you have the most feelings for and herefore a lot is at stake, and even though it should be the last people to yell at, it is almost inevitable, not happening.
 
 
-&nbsp;
-
 
 19 november 2024 16.05
 
@@ -1329,8 +1161,6 @@ Take leadership for instance. A woman will always find a man in a leadership pos
 
 The same goes with being nurturing and pleasing, that is feminine qualities, as men will always find them attractive, and the opposite will not always be true.
 
-
-&nbsp;
 
 
 15 november 2024
@@ -1346,15 +1176,11 @@ It is therefore important to ask why a person wishes to do an extensively good j
 If your focus and priorities are not right, it will crush you in the long run. To be of service for someone else, you must first take care of yourself. No one else is going to do it for you.
 
 
-&nbsp;
-
 
 12 november 2024 11.55
 
 Zoning out or daydreaming is coping from feeling what’s going on in your body.
 
-
-&nbsp;
 
 
 10 november 2024
@@ -1364,15 +1190,11 @@ Zoning out or daydreaming is coping from feeling what’s going on in your body.
 - Gabor Maté.
 
 
-&nbsp;
-
 
 2 november 2024
 
 I don’t care about earning a lot, as long as I earn enough.
 
-
-&nbsp;
 
 
 1 november 2024 11.30
@@ -1384,15 +1206,11 @@ Narcissism is being in love with one’s own reflection.
 It is a wound in one’s own ability to love themself.
 
 
-&nbsp;
-
 
 28 oktober 2024
 
 Learning to work with people you don’t like, is a big advantage.
 
-
-&nbsp;
 
 
 24 oktober 2024 17.40
@@ -1400,15 +1218,11 @@ Learning to work with people you don’t like, is a big advantage.
 In management consultancy, the two most importance factors for success is to use your intuition and critical thinking.
 
 
-&nbsp;
-
 
 16 oktober 2024
 
 Irritation is just suppressed anger.
 
-
-&nbsp;
 
 
 16 oktober 2024
@@ -1416,15 +1230,11 @@ Irritation is just suppressed anger.
 Uncontrollable angry outbursts are signs of unrecognized suffering.
 
 
-&nbsp;
-
 
 12 oktober 2024
 
 Becoming self disciplined will set your mind free, and ultimately lead to freedom in crucial aspects of your life.
 
-
-&nbsp;
 
 
 17 september 2024 22.17
@@ -1434,15 +1244,11 @@ Ens kærlighedstilknytning til sin partner kan ofte kategoriseres som man enten 
 Hvis ens partner er meget loyal, altid glad og elsker intens opmærksomhed (karakteristisk hos en hund) vil man være bedst stillet med en kat, og vice versa.
 
 
-&nbsp;
-
 
 8 september 2024 17.52
 
 I am not a significantly unique human being, but I am special in the light of society.
 
-
-&nbsp;
 
 
 6 september 2024
@@ -1450,23 +1256,17 @@ I am not a significantly unique human being, but I am special in the light of so
 Friction makes life interesting.
 
 
-&nbsp;
-
 
 2 september 2024
 
 Loving kindness is the gateway to another person’s heart.
 
 
-&nbsp;
-
 
 21 august 2024
 
 Having many material possessions is okay, as long as you remain emotionally detached.
 
-
-&nbsp;
 
 
 19 august 2024 10.15
@@ -1480,8 +1280,6 @@ Måske man skal omlægge sit liv fuldstændig, eller blive konfronteret med mege
 Kommentar 21 april, 2025, post Vipassa retreat: Denne frygt bliver kun en realitet hvis man i lang tid har levet et uautentisk liv, og ikke hørt efter på sit kald.
 
 
-&nbsp;
-
 
 7 august 2024
 
@@ -1489,8 +1287,6 @@ What is more valuable than time?
 
 The present moment.
 
-
-&nbsp;
 
 
 5 august 2024 09.15
@@ -1502,15 +1298,11 @@ The present moment.
 Sandsynligheden for at møde ligesindede afhænger ikke i ligeså høj grad af hvilken kultur mennesker kommer fra. Det afhænger i højere grad af om de er dannede. Besynderligt nok er der ikke et ord på engelsk som dækker over dette. Det handler nemlig ikke om et menneskes sociale lag, men om hvilken verdensanskuelse de har, deres forhold til kunst, filosofi og historie.
 
 
-&nbsp;
-
 
 2 august 2024
 
 Everything in life is networked and dynamic. Stop forcing things into static categories and boxes.
 
-
-&nbsp;
 
 
 18 juli 2024
@@ -1526,15 +1318,11 @@ If the decision on a problem is specific, even though it is complex, trustfully 
 However, if the problem is vague, and still complex, note your immediate response, and use the valuable currency of time to gather data over a longer period from various sources such as your gut feeling, research or other people’s perspectives, to make the least bad decision.
 
 
-&nbsp;
-
 
 2 juni 2024
 
 Use your device mindfully, don’t let it use you.
 
-
-&nbsp;
 
 
 1 juni 2024
@@ -1550,8 +1338,6 @@ If you had a hard upbringing and reach a point in life of comfort, it can be dif
 This is especially bad if your brain and fear tells you to stay on that path, but your heart and God tells you to go somewhere else.
 
 
-&nbsp;
-
 
 25 maj 2024
 
@@ -1560,15 +1346,11 @@ This is especially bad if your brain and fear tells you to stay on that path, bu
 - Kung Fu Panda.
 
 
-&nbsp;
-
 
 25 maj 2024
 
 The ever lasting rhythm of crashing waves, is Mother Earth breathing.
 
-
-&nbsp;
 
 
 25 maj 2024
@@ -1576,15 +1358,11 @@ The ever lasting rhythm of crashing waves, is Mother Earth breathing.
 Save up money when you earn a lot, not when your income is low.
 
 
-&nbsp;
-
 
 18 april 2024
 
 News that stay relevant for at least a week are worth paying attention to, while news that only hold relevance for a day, is just a quick dopamine fix.
 
-
-&nbsp;
 
 
 15 april 2024
@@ -1596,15 +1374,11 @@ Daily routines short term, gives energy for intuitiveness long term.
 Having an organised and routinely planned everyday life, makes it more flexible for long term plans to change.
 
 
-&nbsp;
-
 
 15 april 2024 11.48
 
 Luck is when thorough preparation meets opportunity.
 
-
-&nbsp;
 
 
 28 marts 2024
@@ -1612,15 +1386,11 @@ Luck is when thorough preparation meets opportunity.
 Finding the balances in life is hard and beautiful.
 
 
-&nbsp;
-
 
 28 marts 2024 19.22
 
 How do you live a happy life? By serving others and remaining grateful. The opposite of this is being miserly and bitter.
 
-
-&nbsp;
 
 
 11 marts 2024
@@ -1631,8 +1401,6 @@ Mental model to get a better time-sense of how the current month play its part i
 
 Instead of thinking about the month as a flat calendar, imagine an analog clock turned upside down. Each number represents the month.
 
-
-&nbsp;
 
 
 6 marts 2024
@@ -1648,8 +1416,6 @@ We all have a baggage and experiences that have shaped us into who we are today.
 Having documented your thoughts and feelings in a journal will make your future decisions inline with yourself, and ensure that you learn from your mistakes.
 
 
-&nbsp;
-
 
 6 marts 2024
 
@@ -1664,23 +1430,17 @@ Not having to come up with lies and excuses, makes your life and relationships s
 When you don’t have to worry about what you told whom when, you can be present and not worry about keeping up certain stories.
 
 
-&nbsp;
-
 
 6 marts 2024
 
 When assessing a person’s moral worth, look at their actions when no one else is around.
 
 
-&nbsp;
-
 
 11 januar 2024
 
 I’d rather be perceived as authentic and boring, than funny and not able to set boundaries.
 
-
-&nbsp;
 
 
 11 november 2023
@@ -1692,23 +1452,17 @@ Hvis du arbejder med noget du har lyst til, behøves du ikke at holde arbejdsliv
 Ligeledes, hvis du arbejder med noget du ikke har lyst til, vil du følge dig bundet og ikke særlig fri, hvis du ikke kan holde arbejdsliv og privatliv adskilt.
 
 
-&nbsp;
-
 
 13 oktober 2023
 
 Grandchildren are the gift from your kids for raising you.
 
 
-&nbsp;
-
 
 21 september 2023 18.56 (GMT+10)
 
 Find a craft, not work.
 
-
-&nbsp;
 
 
 20 september 2023 11.22 (GMT+10)
@@ -1724,8 +1478,6 @@ Eg, I am sitting in a programming class, and I am being presented to different t
 So, in the moment, how do I decide whether I am learning something, or if I should use my time otherwise.
 
 
-&nbsp;
-
 
 11 september 2023
 
@@ -1733,8 +1485,6 @@ So, in the moment, how do I decide whether I am learning something, or if I shou
 
 - Sarah Beth Yoga.
 
-
-&nbsp;
 
 
 11 september 2023
@@ -1746,8 +1496,6 @@ In return of accepting constant change in the workplace, employees require flexi
 Flexibility to structure work hours, work location and how you solve problems.
 
 
-&nbsp;
-
 
 17 august 2023
 
@@ -1757,8 +1505,6 @@ Don’t focus on increasing your salary, focus on growing your net worth.
 
 Revisited 21 april 2025: Focus on growing your billable hours, not just your net worth. That will ultimately lead to more time, which will free your life to focus on other things that matter.
 
-
-&nbsp;
 
 
 4 august 2023
@@ -1774,8 +1520,6 @@ And yes, society is part of life, but it is only a fraction.
 If you play the game for too long, you just become a character without defining your own beliefs or values.
 
 
-&nbsp;
-
 
 4 august 2023 13.39 (GMT+10)
 
@@ -1785,8 +1529,6 @@ Be slow in transitions. Everyone has their own tempo, so ensuring that everbody 
 
 Also, don’t be afraid of taking breakes. They make an opportunity for new things to arise, and give renewed energy to the existing activity. If the activity requires a deep dive, then take less frequent but longer breakes.
 
-
-&nbsp;
 
 
 1 august 2023 19.04 (GMT+10)
@@ -1798,15 +1540,11 @@ Either be more open and spark conversations with strangers, or situate yourself 
 Increase one or both of these areas to meet more people.
 
 
-&nbsp;
-
 
 31 juli 2023
 
 A woman don’t care about what you do. They care about how you make them feel. And a high social status will always make them feel attracted to you, almost no matter how you obtained it.
 
-
-&nbsp;
 
 
 27 juli 2023
@@ -1816,8 +1554,6 @@ Meningen med livet er at finde mening i livet.
 The meaning of life is to find meaning in life.
 
 
-&nbsp;
-
 
 23 juli 2023
 
@@ -1825,8 +1561,6 @@ Positive emotions surrounding meaningful experiences grows exponentially over ti
 
 Our affection for material possessions does the opposite.
 
-
-&nbsp;
 
 
 23 juli 2023
@@ -1838,23 +1572,17 @@ Serving others will lead to life lasting happiness.
 In order to do so sustainably, you must take care of yourself first.
 
 
-&nbsp;
-
 
 23 juli 2023
 
 The deeper you know yourself, the more you will understand the beauty of the nuances of what the world has to offer.
 
 
-&nbsp;
-
 
 23 juli 2023
 
 Incorporate the values you admire in others. These are your values.
 
-
-&nbsp;
 
 
 23 juli 2023
@@ -1870,23 +1598,17 @@ However, make sure to revisit them as you grow older and more mature, and if lif
 Your rules will also help you better navigate the world and make authentic choices for yourself.
 
 
-&nbsp;
-
 
 20 juli 2023
 
 Anxiety causes fatigue, not lack of sleep.
 
 
-&nbsp;
-
 
 20 juli 2023
 
 As long as you keep your door open, others will do the same for you.
 
-
-&nbsp;
 
 
 22 juni 2023
@@ -1898,15 +1620,11 @@ You are wasting your time when you only engage with life unconsciously.
 Being deliberate about something that may seem unproductive, like taking a long nap or watching a movie, is not wasted time, as long as you are conscious about why you do it.
 
 
-&nbsp;
-
 
 17 juni 2023
 
 Whenever you feel high levels of anxiety, let the excitement of what you are about to do, overshadow that feeling.
 
-
-&nbsp;
 
 
 17 juni 2023
@@ -1917,8 +1635,6 @@ Stop measuring yourself on time spend on some task. Focus on the impact/quality 
 
 Instead of working long hours with shifting focus and hitting yourself in the head, put in your best effort in a shorter period of time, and discover that the quality of your output will be similar, and you will have gained a lot of free time to use on other passions.
 
-
-&nbsp;
 
 
 16 juni 2023 11.13
@@ -1931,8 +1647,6 @@ Instead of working long hours with shifting focus and hitting yourself in the he
 
 Don't underestimate the power of human emotion when introducing change in any field of work.
 
-
-&nbsp;
 
 
 21 maj 2023 21.39
@@ -1952,8 +1666,6 @@ For at kvantificere dette, kan man måle for meget tid man kan klare at arbejde.
 Lad os sige at 40 timer er passende for dig, så betyder det ikke at du lige præcis er lige god til at arbejde alle 8 timer hver dag i ugen, eller at det nødvendigvis er påkrævet af dig. Det andet man skal have med i udregningen om hvorvidt man ligger for højt eller lavt, er ikke hvor mange timer man ligger i ugen, men i stedet for mange timer man ligger i kvartalen. På månedlig basis kan det nemlig også variere meget.
 
 
-&nbsp;
-
 
 6 marts 2023 23.10
 
@@ -1966,8 +1678,6 @@ Perception comes before reaction.
 If we look one step further, we better make sure that what we perceive is as objective as possible, so we can react as productive as possible.
 
 
-&nbsp;
-
 
 26 februar 2023 10.51
 
@@ -1977,8 +1687,6 @@ Stop writing what tools you master in your resumé. Explain what you have accomp
 
 Everyone can learn how to use a tool, so the interesting thing is how you used it, and what the outcome was.
 
-
-&nbsp;
 
 
 18 februar 2023 10.31
@@ -1994,15 +1702,11 @@ Doing things that increases your dopamine levels, will make the hangover feel le
 Therefore the saying “Just walk it off” is also relevant here, as walk it off, could mean get out in the sun, meet up with a friend, watch a good movie makes sense when you are hungover.
 
 
-&nbsp;
-
 
 16 februar 2023 12.46
 
 It’s okay to be tired when you are around people. Tiredness is temporary and natural.
 
-
-&nbsp;
 
 
 2 februar 2023 09.46
@@ -2018,8 +1722,6 @@ Jeg får en opgave i en stresset og hård tone, og får at vide at jeg skal inds
 Handl derfor roligt og venligt, det spreder sig.
 
 
-&nbsp;
-
 
 23 januar 2023 12.55
 
@@ -2030,8 +1732,6 @@ Forskellige lag af samtaler, fra lavere til højere niveau:
 3. Oplevelser
 4. Ideér, koncepter og abstraktioner.
 
-
-&nbsp;
 
 
 17 januar 2023
@@ -2059,8 +1759,6 @@ Then you might wonder, how will I know when it is my intuition speaking and not 
 This will become easier through regularly practices such as journaling, meditation and praying.
 
 
-&nbsp;
-
 
 16 januar 2023 19.49
 
@@ -2079,8 +1777,6 @@ You’ll never receive what you cannot handle.
 And you may not be able to control what’s happening to you and around you, but you can control how you react to it.
 
 
-&nbsp;
-
 
 16 januar 2023 12.03
 
@@ -2094,8 +1790,6 @@ When we set goals we put pressure on ourselves to achieve them.
 
 Instead have the mindset, that you want to take your skills as far as you can take them, through hard work, networking and taking the opportunities that arise.
 
-
-&nbsp;
 
 
 16 januar 2023 11.01
@@ -2117,8 +1811,6 @@ As humans we have to start small and build up to our fear. For instance, if you 
 We have to show our brain in its current state, that what we perceive as fear, is not something to be scared of. The same goes with jumping from heights, start small and build up. You will be amazed by how far you can go, if you increment just a little every time.
 
 
-&nbsp;
-
 
 15 januar 2023 12.53
 
@@ -2133,15 +1825,11 @@ Your breath is one of the only constants in life, turn to your breath when life 
 Whether in an overwhelming concrete episode or a longer period of time, our breath will always be there. It can vary in pace and intervals, but it will stay a continuous in and out motion.
 
 
-&nbsp;
-
 
 12 januar 2023 23.47
 
 Asking for forgiveness is easier than asking for permission.
 
-
-&nbsp;
 
 
 11 januar 2023 11.21
@@ -2154,8 +1842,6 @@ You can only change what you are aware of.
 
 A strong argument to why you should choose the path of awareness, even though being unaware is way more comfortable.
 
-
-&nbsp;
 
 
 30 december 2022 14.47
@@ -2183,8 +1869,6 @@ Det tager også pres væk fra at skulle have alle mulige titler. Det er dog en f
 Det bedste spørgsmål man kan stille til et andet menneske er dermed “Whats your story?”. Dette kan således udfolde sig i en samtale.
 
 
-&nbsp;
-
 
 27 december 2022 21.02
 
@@ -2199,8 +1883,6 @@ Vores sind er lavet til at forholde sig til den virkelighed som vi er i lige nu,
 Man skal derfor gøre det man har lyst til, og ikke det som man bør gøre - for hvor kommer det ‘bør’ egentlig fra, samfundet? SoMe? Hver ting til sin tid, og man skal kun tage udgangspunkt i sig selv.
 
 
-&nbsp;
-
 
 25 december 2022 23.29
 
@@ -2213,15 +1895,11 @@ Eller hvis man er drevet af passion og et meget tydligt mål, som man derfor kom
 Fx at sætte sig og skrive 30 min på en blogpost dagligt. Det kommer kun til at ske hvis ovenstående er situationen.
 
 
-&nbsp;
-
 
 25 december 2022 23.24
 
 Man kan ikke planlægge livet, men planlægning i livet kan være fantastisk til at realisere sine drømme.
 
-
-&nbsp;
 
 
 24 november 2022 18.19
@@ -2241,8 +1919,6 @@ Man kan ligeledes ikke ændre sin personlighed, som dermed skal have lov til at 
 Følgende kan ikke ændres ved sin personlighed, grundlæggende humor, interesser, kærlighedssprog etc.
 
 
-&nbsp;
-
 
 12 november 2022
 
@@ -2251,8 +1927,6 @@ Change is the only constant in life, and the pain of loss is fundamentally adapt
 - Buddhism.
 
 
-&nbsp;
-
 
 10 november 2022 21.56
 
@@ -2260,8 +1934,6 @@ As a man, you want to be characterised as kind and dangerous, and your goal is t
 
 - Andrew Tate.
 
-
-&nbsp;
 
 
 2 oktober 2022 21.21
@@ -2282,8 +1954,6 @@ This can be achieved through the following traits:
 - Being a good listener and welcoming constructive feedback
 
 
-&nbsp;
-
 
 30 september 2022 17.06
 
@@ -2297,8 +1967,6 @@ The task will be seen more as a passion project, rather than a chore a worker ha
 
 Thus, create a culture that emphasis people wanting to be there, instead of having to be there.
 
-
-&nbsp;
 
 
 30 september 2022 16.11
@@ -2317,8 +1985,6 @@ Don’t let challenges build up so you are not in charge of when to face them. S
 
 The same goes for improving yourself (deliberately put yourself in situations outside your comfort zone, to better adapt to similar challenges). This should be done on your terms, so go out and face them when you just got that grade you wanted, or the girl you were interested in replied you back. If you don’t face the challenges a head, it will come at random times, which will catch you off guard.
 
-
-&nbsp;
 
 
 24 september 2022 11.03
