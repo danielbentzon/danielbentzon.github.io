@@ -1,6 +1,6 @@
 ---
 title: Har verden virkelig brug for mere ‘kunstig’ intelligens?
-date: 2026-05-26
+date: 2026-09-10
 genre: Essay
 ---
 ### **Har verden virkelig brug for mere ‘kunstig’ intelligens?**
