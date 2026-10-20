@@ -7,9 +7,7 @@ Link til avisartikel her: ++[[https://jyllands-posten.dk/debat/breve/ECE17848297
 
 
 
-16. februar 2025
-
-### **Hvorfor tøver unge med at få børn?**
+&nbsp;
 
 De faldende fødselsrater i Danmark er ikke blot en statistisk fodnote; de er et tegn på dybtgående ændringer i vores samfund. Som 27-årig står jeg midt i det. Drømmen om at stifte familie og finde en bolig, der kan skabe rammerne for det nære familieliv, virker mere som en drøm fra fortiden end en overskuelig realitet anno 2025. 
 
