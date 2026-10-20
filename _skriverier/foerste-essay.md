@@ -3,17 +3,11 @@ title: Har verden virkelig brug for mere ‘kunstig’ intelligens?
 date: 2026-09-10
 genre: Essay
 ---
-### **Har verden virkelig brug for mere ‘kunstig’ intelligens?**
-
 Link til DRs techpodcast Prompt, hvor jeg diskuterer AI og menneskets sameksistens på arbejdsmarkedet: [https://www.dr.dk/lyd/special-radio/prompt/prompt-2026/trumps-sci-fi-politi-og-deprimerende-ai-arbejdsliv-11802621036](https://www.dr.dk/lyd/special-radio/prompt/prompt-2026/trumps-sci-fi-politi-og-deprimerende-ai-arbejdsliv-11802621036)
 
 
 
 &nbsp;
-
-26 maj 2025
-
-
 
 Vi skal ikke spørge hvordan AI, men hvorfor AI. Vi er allerede kørt af sporet når vi begynder at acceptere at det nu er uundgåeligt at vi skal leve i tæt symbiose med AI. Vi må i stedet træde et skridt tilbage og vurdere hvorfor vi overhovedet skulle have AI til at starte med? Skru tiden tilbage til 2023 da vi i første gang kom i berøringen med det. Magisk, var det ikke? Vi kunne genere sjovt indhold og svare på komplicerede spørgsmål og få svar på få sekunder. Helt ukritisk fyldte vi maskinerne med træningsdata og bidrog blindt til viderebyggelsen af de allerede umoralske foranstaltninger. Mit spørgsmål er derfor, skal vi virkelig bare acceptere at blive indkapslet i kunstig intelligens til et niveau hvor vi ikke kun outsourcer den menneskelige tænkeevne, men også opdragelsen af vores børn, jf robothund engelsklærer. 
 
