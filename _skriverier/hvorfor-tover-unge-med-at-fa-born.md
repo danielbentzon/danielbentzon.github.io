@@ -3,15 +3,13 @@ title: Hvorfor tøver unge med at få børn?
 date: 2025-02-16
 genre: Essay
 ---
-Link til avisartikel her: ++[https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/++](https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/)  
+Link til avisartikel her: ++[[https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/](https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/)++]([https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/](https://jyllands-posten.dk/debat/breve/ECE17848297/hvorfor-toever-unge-med-at-faa-boern-fordi-de-tror-de-foerst-skal-have-det-hele-lidt-til-og-meget-mere/))  
 
 
-  
+
 16. februar 2025
 
-
-
-### **Hvorfor tøver unge med at få børn?** 
+### **Hvorfor tøver unge med at få børn?**
 
 De faldende fødselsrater i Danmark er ikke blot en statistisk fodnote; de er et tegn på dybtgående ændringer i vores samfund. Som 27-årig står jeg midt i det. Drømmen om at stifte familie og finde en bolig, der kan skabe rammerne for det nære familieliv, virker mere som en drøm fra fortiden end en overskuelig realitet anno 2025. 
 
