@@ -10,6 +10,8 @@ Nogle gange er det bedste råd det mest simple. Det er fint med tidløs indianer
 
 
 
+&nbsp;
+
 21 juli 2026
 
 Lad være med at lede efter et arbejde du tror du har lyst til, led efter et arbejde som du er nysgerrig på. 
@@ -1039,8 +1041,6 @@ Bedste råd:
 
 
 
-&nbsp;
-
 29 april 2025 08.37
 
 People comment on everything out of the ordinary. Don’t try to fight it just embrace your uniqueness.
@@ -1933,8 +1933,6 @@ Forskellige lag af samtaler, fra lavere til højere niveau:
 4. Ideér, koncepter og abstraktioner.
 
 
-
-&nbsp;
 
 17 januar 2023
 
