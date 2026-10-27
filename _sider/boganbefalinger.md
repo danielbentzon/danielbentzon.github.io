@@ -9,6 +9,7 @@ Boganbefalingerne er sat i prioriteret læserækkefølge under hvert emne, så d
 &nbsp;
 
 **IBS**
+
 Mavero (2026) - Helene og Alice
 
 Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til håndtering. Stor anbefaling.
@@ -18,4 +19,5 @@ Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til hå
 &nbsp;
 
 **Meditation**
+
 Den Magisk Butik (2016) - James Doty
