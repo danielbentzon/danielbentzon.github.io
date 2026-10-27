@@ -42,7 +42,9 @@ God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville
 
 &nbsp;
 
-### Heling
+### Psykosomatik
+
+Forbindelsen mellem krop og sind i sygdomstilstande.
 
 
 
