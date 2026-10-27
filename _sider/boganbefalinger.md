@@ -2,7 +2,11 @@
 title: Boganbefalinger
 permalink: /boganbefalinger/
 ---
-Boganbefalingerne er sat i prioriteret læserækkefølge under hvert emne, så den øverste er der hvor jeg har fundet mest værdi. #Dette skal slettes
+Anbefalingerne er sat i prioriteret læserækkefølge under hvert emne, så den øverste er der hvor jeg har fundet mest værdi. #Dette skal slettes
+
+
+
+### Boganbefalinger
 
 
 
@@ -22,6 +26,10 @@ Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til hå
 
 **Meditation**
 
+Mindfulness in Plain English (2011) - Bhante Gunaratana
+
+Fantastisk bog hvis man aldrig har mediteret før.
+
 
 
 Den Magisk Butik (2016) - James Doty
@@ -37,3 +45,12 @@ God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville
 
 
 &nbsp;
+
+&nbsp;
+
+### Filmanbefalinger
+
+
+
+**Buddisme**
+
