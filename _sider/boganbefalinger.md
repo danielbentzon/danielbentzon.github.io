@@ -1,11 +1,7 @@
 ---
-title: Boganbefalinger
-permalink: /boganbefalinger/
+title: Ressourcer
+permalink: /ressourcer/
 ---
-Anbefalingerne er sat i prioriteret læserækkefølge under hvert emne, så den øverste er der hvor jeg har fundet mest værdi. #Dette skal slettes
-
-
-
 ### Boganbefalinger
 
 
