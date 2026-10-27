@@ -6,6 +6,8 @@ permalink: /ressourcer/
 
 
 
+&nbsp;
+
 **IBS**
 
 
@@ -28,11 +30,15 @@ Fantastisk bog hvis man aldrig har mediteret før.
 
 
 
+&nbsp;
+
 Den Magisk Butik (2016) - James Doty
 
 Inspiration til at komme i gang med meditation og hvilken pragmatisk effekt det kan have på ens liv på kort og lang sigt.
 
 
+
+&nbsp;
 
 Think Like a Monk - James Shetty 
 
