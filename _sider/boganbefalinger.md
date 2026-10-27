@@ -42,7 +42,7 @@ Inspiration til at komme i gang med meditation og hvilken pragmatisk effekt det 
 
 &nbsp;
 
-Think Like a Monk - James Shetty 
+Think Like a Monk - Jay Shetty 
 
 God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville en munk agere, hvis vedkommende var ude blandt civile mennesker?
 
@@ -71,6 +71,16 @@ Myten om det normal (2025) - Gabor Maté
 &nbsp;
 
 Holistisk medicin (2025) - Lissa Rankin
+
+
+
+&nbsp;
+
+**Selvudvikling**
+
+Blink: The Power of Thinking Without Thinking (2005) - Malcolm Gladwell
+
+Lærer en om kraften ved at stole på sin intuition og et stort grundlag af kvalitative eksempler for at understøtte troværdigheden ved at stole på sin intuition. I hverdagen kan det godt være svært at kommunikere til andre, at ens intuition fortæller et eller andet, som man ønsker at handle på, men efter at have læst denne bog, bliver det nemmere at stå ved sin følelse om at lytte til sin intuition. 
 
 
 
