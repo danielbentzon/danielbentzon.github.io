@@ -86,6 +86,18 @@ Er en eksemplificering af buddhisme. 'The force', 'Dao', 'Tao', 'Chi'.
 
 
 
+&nbsp;
+
+**The Heroes Journey**
+
+Ringes Herre triologien (2001-2003) - Peter Jackson, skrevet af J.R.R. Tolkien.
+
+Forstå the heroes journey og hvordan man ikke kan komme tilbage til det liv der engang var, når man har været på sin helte rejse.
+
+
+
+&nbsp;
+
 ### Youtube
 
 **IFS**
