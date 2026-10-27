@@ -2,6 +2,12 @@
 title: Ressourcer
 permalink: /ressourcer/
 ---
+Oversigt over vigtige ressourcer i min individuationsproces.
+
+
+
+&nbsp;
+
 ### Boganbefalinger
 
 
