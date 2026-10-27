@@ -6,8 +6,6 @@ permalink: /ressourcer/
 
 
 
-&nbsp;
-
 **IBS**
 
 
@@ -44,11 +42,31 @@ God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville
 
 &nbsp;
 
+### Heling
+
+
+
+&nbsp;
+
+Kroppen holder regnskab - Bessl van der Kolk
+
+
+
+&nbsp;
+
+Myten om det normal (2025) - Gabor Maté
+
+
+
+&nbsp;
+
+Holistisk medicin (2025) - Lissa Rankin
+
+
+
 &nbsp;
 
 ### Filmanbefalinger
-
-
 
 **Buddhisme**
 
