@@ -76,6 +76,18 @@ Holistisk medicin (2025) - Lissa Rankin
 
 &nbsp;
 
+**Dybdepsykologi**
+
+Mandens og hans indre kvinder (2003) - Ole Vedfelt
+
+Læs denne bog for at få indsigt i en dybdepsykologisk forståelse for udvikling af maskulinitet, og hvordan det udvikles på en sund måde, og hvordan billedernes verden, særlig gennem drømme, afspejler en mandens psykiske virkelig. Her spiller ‘de indre kvinder’ altså hunkøn i mænds drømme, en vigtig rolle som guides for hvordan man får låst op for sin naturlige maskulinitet.
+
+Den er også en kommentar til hvordan manden udvikler sin maskulinitet, fra han bliver ført af sin mor, til han kommer ind i en institutionaliseret verden domineret af kvinder, her i den sekundære socialisering, altså vuggestuer, børnehaver og skoler.
+
+
+
+&nbsp;
+
 **Selvudvikling**
 
 Blink: The Power of Thinking Without Thinking (2005) - Malcolm Gladwell
