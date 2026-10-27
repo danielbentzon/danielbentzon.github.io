@@ -26,6 +26,8 @@ Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til hå
 
 **Meditation**
 
+
+
 Mindfulness in Plain English (2011) - Bhante Gunaratana
 
 Fantastisk bog hvis man aldrig har mediteret før.
@@ -52,5 +54,14 @@ God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville
 
 
 
-**Buddisme**
+**Buddhisme**
 
+Star Wars (1977-2005) - George Lucas
+
+Er en eksemplificering af buddhisme. 'The force', 'Dao', 'Tao', 'Chi'.
+
+
+
+&nbsp;
+
+&nbsp;
