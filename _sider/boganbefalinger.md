@@ -1,5 +1,6 @@
 ---
 title: Boganbefalinger
+permalink: /boganbefalinger/
 ---
 Boganbefalingerne er sat i prioriteret læserækkefølge under hvert emne, så den øverste er der hvor jeg har fundet mest værdi.
 
