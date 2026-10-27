@@ -16,8 +16,6 @@ Oversigt over vigtige ressourcer i min individuationsproces.
 
 **IBS**
 
-
-
 Mavero (2026) - Helene og Alice
 
 Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til håndtering. Stor anbefaling.
@@ -27,8 +25,6 @@ Holistisk og empatisk tilgang til IBS. Giver viden og konkrette tilgange til hå
 &nbsp;
 
 **Meditation**
-
-
 
 Mindfulness in Plain English (2011) - Bhante Gunaratana
 
@@ -54,7 +50,7 @@ God introduktion til hvordan man adapterer en munks sindstilstand. Hvordan ville
 
 &nbsp;
 
-### Psykosomatik
+#### **Psykosomatik**
 
 Forbindelsen mellem krop og sind i sygdomstilstande.
 
@@ -90,6 +86,14 @@ Er en eksemplificering af buddhisme. 'The force', 'Dao', 'Tao', 'Chi'.
 
 
 
-&nbsp;
+### Youtube
+
+**IFS**
+
+Bedste og mest dybtfølte forklaring af IFS:
+
+[https://www.youtube.com/watch?v=2Tr6SW9pUEk&ab_channel=NovaMagica](https://www.youtube.com/watch?v=2Tr6SW9pUEk&ab_channel=NovaMagica)
+
+
 
 &nbsp;
